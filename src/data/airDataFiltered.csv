@@ -1,0 +1,1011 @@
+ID,Airline Name,Overall_Rating,Review Date,Verified,Type Of Traveller,Seat Type,Date Flown,Seat Comfort,Cabin Staff Service,Food & Beverages,Ground Service,Inflight Entertainment,Wifi & Connectivity,Value For Money,Recommended
+300,Aeroflot Russian Airlines,1,21st January 2023,True,Solo Leisure,Economy Class,2023-01-01,,,,,,,1.0,no
+301,Aeroflot Russian Airlines,1,2nd September 2022,True,Solo Leisure,Economy Class,2022-07-01,,,,,,,1.0,no
+302,Aeroflot Russian Airlines,5,30th January 2022,True,Solo Leisure,Business Class,2022-01-01,5.0,2.0,4.0,2.0,5.0,3.0,2.0,no
+303,Aeroflot Russian Airlines,1,10th November 2021,False,Business,Economy Class,2021-08-01,5.0,5.0,5.0,5.0,,5.0,5.0,yes
+304,Aeroflot Russian Airlines,1,25th September 2021,True,Business,Business Class,2021-09-01,4.0,5.0,4.0,5.0,4.0,,4.0,yes
+305,Aeroflot Russian Airlines,2,21st September 2021,True,Business,Economy Class,2020-10-01,2.0,3.0,3.0,2.0,1.0,,2.0,no
+306,Aeroflot Russian Airlines,5,12th September 2021,True,Solo Leisure,Business Class,2021-09-01,3.0,3.0,3.0,3.0,,,3.0,yes
+307,Aeroflot Russian Airlines,7,3rd September 2021,True,Business,Premium Economy,2021-09-01,1.0,4.0,4.0,3.0,4.0,3.0,4.0,yes
+308,Aeroflot Russian Airlines,2,28th August 2021,True,Family Leisure,Economy Class,2021-08-01,3.0,1.0,4.0,1.0,3.0,1.0,2.0,no
+309,Aeroflot Russian Airlines,8,16th August 2021,False,Solo Leisure,Premium Economy,2021-08-01,4.0,5.0,4.0,3.0,4.0,,4.0,yes
+310,Aeroflot Russian Airlines,4,4th July 2021,True,Business,Economy Class,2021-07-01,3.0,4.0,4.0,1.0,2.0,3.0,2.0,no
+311,Aeroflot Russian Airlines,1,27th June 2021,False,Couple Leisure,Economy Class,2020-07-01,,,,,,,1.0,no
+312,Aeroflot Russian Airlines,1,15th March 2021,True,Business,Economy Class,2020-04-01,,,,,,,1.0,no
+313,Aeroflot Russian Airlines,1,12th January 2021,True,Family Leisure,Economy Class,2020-03-01,,,,,,,1.0,no
+314,Aeroflot Russian Airlines,1,16th December 2020,True,Couple Leisure,Economy Class,2020-12-01,,,,1.0,,,1.0,no
+315,Aeroflot Russian Airlines,1,12th December 2020,True,Solo Leisure,Economy Class,2020-04-01,,,,,,,1.0,no
+316,Aeroflot Russian Airlines,1,2nd November 2020,False,Couple Leisure,Economy Class,2020-04-01,,,,,,,1.0,no
+317,Aeroflot Russian Airlines,1,31st October 2020,True,Solo Leisure,Business Class,2020-10-01,5.0,5.0,4.0,4.0,5.0,,5.0,yes
+318,Aeroflot Russian Airlines,1,23rd October 2020,True,Solo Leisure,Economy Class,2020-04-01,,,,,,,2.0,no
+319,Aeroflot Russian Airlines,9,27th August 2020,True,Solo Leisure,Premium Economy,2020-08-01,2.0,5.0,5.0,5.0,5.0,,5.0,yes
+320,Aeroflot Russian Airlines,1,22nd August 2020,True,Business,Economy Class,2020-08-01,,,,1.0,,,1.0,no
+321,Aeroflot Russian Airlines,1,19th August 2020,True,Solo Leisure,Economy Class,2020-04-01,,,,,,,1.0,no
+322,Aeroflot Russian Airlines,1,10th August 2020,True,Family Leisure,Economy Class,2020-08-01,,,,,,,5.0,yes
+323,Aeroflot Russian Airlines,1,6th August 2020,True,Couple Leisure,Economy Class,2020-04-01,,,,,,,1.0,no
+324,Aeroflot Russian Airlines,1,23rd June 2020,True,Solo Leisure,Economy Class,2020-01-01,3.0,1.0,3.0,1.0,3.0,,3.0,no
+325,Aeroflot Russian Airlines,1,3rd June 2020,False,Business,Business Class,2020-04-01,,,,,,,1.0,no
+326,Aeroflot Russian Airlines,8,4th April 2020,True,Solo Leisure,Economy Class,2019-09-01,5.0,5.0,4.0,5.0,4.0,1.0,5.0,yes
+327,Aeroflot Russian Airlines,2,24th March 2020,True,Solo Leisure,Business Class,2020-03-01,3.0,4.0,1.0,1.0,3.0,,1.0,no
+328,Aeroflot Russian Airlines,2,20th March 2020,True,Solo Leisure,Economy Class,2019-04-01,1.0,1.0,,1.0,2.0,1.0,1.0,no
+329,Aeroflot Russian Airlines,2,19th March 2020,True,Solo Leisure,Business Class,2019-11-01,2.0,4.0,2.0,1.0,2.0,,2.0,no
+330,Aeroflot Russian Airlines,2,19th March 2020,True,Solo Leisure,Economy Class,2020-03-01,1.0,2.0,1.0,2.0,,,1.0,no
+331,Aeroflot Russian Airlines,1,8th March 2020,True,Solo Leisure,Economy Class,2020-02-01,5.0,5.0,5.0,5.0,5.0,,5.0,yes
+332,Aeroflot Russian Airlines,9,6th March 2020,True,Solo Leisure,Economy Class,2019-12-01,4.0,5.0,4.0,4.0,,,5.0,yes
+333,Aeroflot Russian Airlines,9,4th March 2020,True,Solo Leisure,Economy Class,2020-03-01,5.0,5.0,5.0,4.0,,,4.0,yes
+334,Aeroflot Russian Airlines,1,2nd March 2020,True,Family Leisure,Economy Class,2020-02-01,5.0,5.0,5.0,5.0,5.0,,5.0,yes
+335,Aeroflot Russian Airlines,1,11th February 2020,True,Family Leisure,Economy Class,2020-01-01,1.0,1.0,1.0,1.0,,,1.0,no
+336,Aeroflot Russian Airlines,7,7th February 2020,True,Solo Leisure,Economy Class,2019-11-01,4.0,4.0,2.0,5.0,1.0,1.0,5.0,yes
+337,Aeroflot Russian Airlines,1,6th February 2020,True,Solo Leisure,Economy Class,2020-02-01,3.0,2.0,2.0,1.0,2.0,,3.0,no
+338,Aeroflot Russian Airlines,2,29th January 2020,True,Solo Leisure,Economy Class,2020-01-01,1.0,1.0,1.0,1.0,,,2.0,no
+339,Aeroflot Russian Airlines,2,20th January 2020,True,Solo Leisure,Economy Class,2020-01-01,3.0,1.0,2.0,2.0,,,4.0,no
+340,Aeroflot Russian Airlines,1,8th January 2020,True,Solo Leisure,Economy Class,2020-01-01,3.0,2.0,1.0,1.0,3.0,3.0,3.0,no
+341,Aeroflot Russian Airlines,2,7th January 2020,True,Solo Leisure,Economy Class,2020-01-01,3.0,3.0,3.0,1.0,3.0,,1.0,no
+342,Aeroflot Russian Airlines,6,7th January 2020,True,Solo Leisure,Economy Class,2020-01-01,3.0,4.0,2.0,3.0,,,4.0,yes
+343,Aeroflot Russian Airlines,1,5th January 2020,True,Couple Leisure,Economy Class,2020-01-01,1.0,1.0,,1.0,,,1.0,no
+344,Aeroflot Russian Airlines,1,25th December 2019,True,Solo Leisure,Economy Class,2019-12-01,,,,,,,1.0,no
+345,Aeroflot Russian Airlines,9,14th December 2019,True,Solo Leisure,Economy Class,2019-12-01,4.0,5.0,4.0,4.0,,,3.0,yes
+346,Aeroflot Russian Airlines,1,9th December 2019,True,Solo Leisure,Economy Class,2019-12-01,5.0,5.0,5.0,4.0,5.0,,5.0,yes
+347,Aeroflot Russian Airlines,2,27th November 2019,True,Family Leisure,Economy Class,2019-07-01,3.0,3.0,3.0,3.0,2.0,1.0,1.0,no
+348,Aeroflot Russian Airlines,7,24th October 2019,True,Solo Leisure,Economy Class,2019-08-01,3.0,4.0,3.0,2.0,,,4.0,yes
+349,Aeroflot Russian Airlines,1,23rd October 2019,True,Solo Leisure,Economy Class,2019-06-01,5.0,5.0,4.0,5.0,,,5.0,yes
+350,Aeroflot Russian Airlines,2,21st October 2019,True,Solo Leisure,Economy Class,2019-10-01,2.0,2.0,2.0,1.0,2.0,,2.0,no
+351,Aeroflot Russian Airlines,1,19th October 2019,True,Family Leisure,Economy Class,2019-10-01,,,,,,,1.0,no
+352,Aeroflot Russian Airlines,3,18th October 2019,True,Business,Economy Class,2019-10-01,4.0,4.0,,1.0,,,2.0,no
+353,Aeroflot Russian Airlines,1,10th October 2019,True,Business,Business Class,2019-10-01,5.0,5.0,5.0,4.0,,,5.0,yes
+354,Aeroflot Russian Airlines,6,8th October 2019,True,Business,Premium Economy,2019-09-01,3.0,3.0,3.0,3.0,3.0,,4.0,yes
+355,Aeroflot Russian Airlines,2,28th September 2019,True,Family Leisure,Economy Class,2019-09-01,1.0,1.0,1.0,2.0,1.0,,1.0,no
+356,Aeroflot Russian Airlines,1,23rd September 2019,True,Solo Leisure,Economy Class,2019-09-01,1.0,1.0,,1.0,,,1.0,no
+357,Aeroflot Russian Airlines,1,19th September 2019,True,Business,Economy Class,2019-09-01,5.0,5.0,4.0,5.0,5.0,,5.0,yes
+358,Aeroflot Russian Airlines,1,18th September 2019,True,Solo Leisure,Economy Class,2019-09-01,5.0,5.0,5.0,5.0,5.0,,5.0,yes
+359,Aeroflot Russian Airlines,6,17th September 2019,False,Couple Leisure,Economy Class,2019-09-01,5.0,3.0,4.0,4.0,,,4.0,yes
+360,Aeroflot Russian Airlines,2,13th September 2019,True,Family Leisure,Economy Class,2019-08-01,3.0,4.0,3.0,1.0,1.0,4.0,1.0,no
+361,Aeroflot Russian Airlines,1,12th September 2019,True,Solo Leisure,Economy Class,2019-09-01,1.0,1.0,,1.0,,,1.0,no
+362,Aeroflot Russian Airlines,1,10th September 2019,True,Couple Leisure,Economy Class,2019-09-01,5.0,5.0,5.0,5.0,5.0,,5.0,yes
+363,Aeroflot Russian Airlines,3,10th September 2019,True,Family Leisure,Economy Class,2019-09-01,1.0,2.0,2.0,1.0,2.0,,3.0,no
+364,Aeroflot Russian Airlines,1,9th September 2019,True,Family Leisure,Economy Class,2019-09-01,1.0,1.0,,1.0,,,1.0,no
+365,Aeroflot Russian Airlines,8,4th September 2019,True,Business,Economy Class,2019-08-01,4.0,4.0,3.0,4.0,,,5.0,yes
+366,Aeroflot Russian Airlines,9,4th September 2019,True,Business,Economy Class,2019-08-01,4.0,3.0,4.0,5.0,,,5.0,yes
+367,Aeroflot Russian Airlines,8,4th September 2019,True,Business,Economy Class,2019-08-01,4.0,3.0,5.0,4.0,,,5.0,yes
+368,Aeroflot Russian Airlines,1,31st August 2019,True,Couple Leisure,Economy Class,2019-08-01,1.0,1.0,1.0,1.0,,,1.0,no
+369,Aeroflot Russian Airlines,1,31st August 2019,False,Solo Leisure,Business Class,2019-08-01,5.0,5.0,5.0,5.0,,,5.0,yes
+370,Aeroflot Russian Airlines,1,27th August 2019,False,Family Leisure,Economy Class,2019-08-01,5.0,5.0,5.0,5.0,5.0,5.0,5.0,yes
+371,Aeroflot Russian Airlines,3,10th August 2019,True,Family Leisure,Economy Class,2019-06-01,3.0,3.0,2.0,1.0,3.0,,2.0,no
+372,Aeroflot Russian Airlines,1,7th August 2019,True,Solo Leisure,Economy Class,2019-06-01,,,,1.0,,,1.0,no
+373,Aeroflot Russian Airlines,4,30th July 2019,True,Solo Leisure,Economy Class,2019-07-01,3.0,2.0,3.0,1.0,3.0,,3.0,no
+374,Aeroflot Russian Airlines,9,28th July 2019,True,Solo Leisure,Economy Class,2019-07-01,4.0,4.0,5.0,3.0,,,4.0,yes
+375,Aeroflot Russian Airlines,9,24th July 2019,True,Solo Leisure,Economy Class,2019-07-01,5.0,5.0,5.0,5.0,4.0,,5.0,yes
+376,Aeroflot Russian Airlines,1,9th July 2019,False,Family Leisure,Business Class,2019-06-01,4.0,4.0,2.0,1.0,3.0,3.0,1.0,no
+377,Aeroflot Russian Airlines,3,8th July 2019,True,Solo Leisure,Economy Class,2019-06-01,4.0,3.0,1.0,3.0,,,2.0,no
+378,Aeroflot Russian Airlines,1,8th July 2019,True,Family Leisure,Economy Class,2019-07-01,1.0,1.0,,1.0,,,1.0,no
+379,Aeroflot Russian Airlines,1,2nd July 2019,True,Family Leisure,Economy Class,2019-06-01,2.0,3.0,2.0,1.0,4.0,,2.0,no
+380,Aeroflot Russian Airlines,8,28th June 2019,True,Business,Economy Class,2019-06-01,4.0,5.0,5.0,5.0,2.0,,5.0,yes
+381,Aeroflot Russian Airlines,1,27th June 2019,True,Family Leisure,Economy Class,2019-06-01,,,,1.0,,,1.0,no
+382,Aeroflot Russian Airlines,1,25th June 2019,True,Business,Economy Class,2019-06-01,,,,1.0,,,1.0,no
+383,Aeroflot Russian Airlines,1,6th June 2019,True,Couple Leisure,Economy Class,2019-06-01,2.0,2.0,2.0,1.0,2.0,,1.0,no
+384,Aeroflot Russian Airlines,2,3rd June 2019,True,Solo Leisure,Economy Class,2019-06-01,3.0,3.0,4.0,1.0,4.0,2.0,2.0,no
+385,Aeroflot Russian Airlines,2,1st June 2019,True,Business,Economy Class,2019-05-01,4.0,4.0,3.0,1.0,2.0,,1.0,no
+386,Aeroflot Russian Airlines,1,28th May 2019,True,Business,Economy Class,2019-05-01,1.0,1.0,1.0,1.0,,,1.0,no
+387,Aeroflot Russian Airlines,1,26th May 2019,True,Business,Business Class,2019-05-01,3.0,3.0,1.0,1.0,,,2.0,no
+388,Aeroflot Russian Airlines,9,26th May 2019,True,Solo Leisure,Economy Class,2019-05-01,3.0,5.0,3.0,5.0,3.0,,5.0,yes
+389,Aeroflot Russian Airlines,2,16th May 2019,True,Solo Leisure,Economy Class,2019-04-01,2.0,2.0,3.0,2.0,4.0,2.0,2.0,no
+390,Aeroflot Russian Airlines,1,14th May 2019,True,Couple Leisure,Economy Class,2019-05-01,,,,,,,1.0,no
+391,Aeroflot Russian Airlines,1,11th May 2019,True,Solo Leisure,Economy Class,2019-05-01,1.0,1.0,1.0,1.0,,,1.0,no
+392,Aeroflot Russian Airlines,3,10th May 2019,True,Business,Economy Class,2019-01-01,2.0,3.0,2.0,1.0,1.0,,3.0,no
+393,Aeroflot Russian Airlines,1,6th May 2019,False,Family Leisure,Economy Class,2019-04-01,5.0,5.0,3.0,5.0,3.0,,5.0,yes
+394,Aeroflot Russian Airlines,1,5th May 2019,True,Solo Leisure,Economy Class,2019-05-01,2.0,2.0,2.0,1.0,1.0,,1.0,no
+395,Aeroflot Russian Airlines,1,4th May 2019,True,Family Leisure,Economy Class,2019-04-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+396,Aeroflot Russian Airlines,2,1st May 2019,True,Solo Leisure,Economy Class,2019-04-01,1.0,2.0,1.0,4.0,,,2.0,no
+397,Aeroflot Russian Airlines,1,1st May 2019,True,Solo Leisure,Economy Class,2019-04-01,1.0,1.0,1.0,1.0,2.0,,2.0,no
+398,Aeroflot Russian Airlines,3,29th April 2019,True,Couple Leisure,Economy Class,2019-04-01,3.0,3.0,1.0,3.0,1.0,,3.0,no
+399,Aeroflot Russian Airlines,1,24th April 2019,True,Solo Leisure,Economy Class,2019-03-01,3.0,3.0,3.0,3.0,3.0,,2.0,no
+1663,Air France,1,27th July 2023,True,Couple Leisure,Economy Class,2023-06-01,2.0,1.0,2.0,1.0,1.0,2.0,1.0,no
+1664,Air France,1,27th July 2023,False,Solo Leisure,Economy Class,2023-07-01,5.0,5.0,4.0,5.0,5.0,5.0,5.0,yes
+1665,Air France,3,27th July 2023,False,Family Leisure,Economy Class,2023-06-01,1.0,1.0,,1.0,,,1.0,no
+1666,Air France,6,22nd July 2023,True,Couple Leisure,Business Class,2023-07-01,4.0,2.0,2.0,4.0,2.0,2.0,4.0,no
+1667,Air France,2,17th July 2023,True,Family Leisure,Business Class,2023-07-01,1.0,2.0,3.0,3.0,4.0,,1.0,no
+1668,Air France,1,16th July 2023,True,Business,Business Class,2023-07-01,4.0,5.0,5.0,4.0,,,5.0,yes
+1669,Air France,1,16th July 2023,True,Business,Business Class,2023-07-01,4.0,5.0,5.0,4.0,5.0,5.0,5.0,yes
+1670,Air France,1,16th July 2023,True,Family Leisure,Business Class,2022-12-01,4.0,2.0,1.0,2.0,1.0,1.0,1.0,no
+1671,Air France,1,9th July 2023,True,Business,Premium Economy,2023-07-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+1672,Air France,1,7th July 2023,True,Business,Economy Class,2023-07-01,1.0,2.0,2.0,1.0,2.0,,1.0,no
+1673,Air France,1,4th July 2023,True,Solo Leisure,Economy Class,2023-06-01,1.0,2.0,2.0,1.0,,,1.0,no
+1674,Air France,1,3rd July 2023,False,Solo Leisure,Economy Class,2023-07-01,3.0,2.0,1.0,1.0,,,1.0,no
+1675,Air France,8,28th June 2023,False,Couple Leisure,Economy Class,2022-12-01,2.0,5.0,5.0,2.0,5.0,1.0,5.0,yes
+1676,Air France,3,26th June 2023,False,Business,Economy Class,2023-06-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+1677,Air France,1,26th June 2023,True,Couple Leisure,Economy Class,2023-05-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+1678,Air France,4,22nd June 2023,False,Business,Economy Class,2023-06-01,3.0,4.0,,2.0,,,1.0,no
+1679,Air France,1,20th June 2023,False,Couple Leisure,Economy Class,2023-06-01,2.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+1680,Air France,2,19th June 2023,True,Couple Leisure,Premium Economy,2023-05-01,1.0,1.0,1.0,1.0,,,1.0,no
+1681,Air France,1,6th June 2023,True,Solo Leisure,Economy Class,2023-05-01,1.0,4.0,2.0,4.0,3.0,,4.0,no
+1682,Air France,2,6th June 2023,True,Solo Leisure,Premium Economy,2023-06-01,1.0,2.0,1.0,1.0,2.0,2.0,1.0,no
+1683,Air France,5,30th May 2023,True,Couple Leisure,Economy Class,2023-05-01,2.0,1.0,1.0,4.0,5.0,,3.0,no
+1684,Air France,5,22nd May 2023,True,Couple Leisure,Economy Class,2023-05-01,3.0,3.0,4.0,1.0,,5.0,5.0,yes
+1685,Air France,9,22nd May 2023,True,Couple Leisure,Economy Class,2023-05-01,3.0,4.0,3.0,4.0,,4.0,5.0,yes
+1686,Air France,1,19th May 2023,True,Couple Leisure,Economy Class,2023-05-01,3.0,5.0,3.0,5.0,5.0,5.0,5.0,yes
+1687,Air France,2,17th May 2023,True,Solo Leisure,Economy Class,2023-05-01,2.0,3.0,2.0,1.0,2.0,,2.0,no
+1688,Air France,1,17th May 2023,True,Business,Business Class,2023-05-01,4.0,4.0,4.0,1.0,4.0,2.0,1.0,no
+1689,Air France,1,16th May 2023,True,Couple Leisure,Premium Economy,2023-05-01,2.0,2.0,2.0,1.0,,,1.0,no
+1690,Air France,1,11th May 2023,True,Couple Leisure,Premium Economy,2023-05-01,2.0,1.0,1.0,1.0,1.0,2.0,1.0,no
+1691,Air France,1,9th May 2023,True,Solo Leisure,Premium Economy,2023-05-01,1.0,1.0,,1.0,,,1.0,no
+1692,Air France,7,7th May 2023,False,Solo Leisure,Economy Class,2022-12-01,5.0,5.0,5.0,1.0,5.0,1.0,5.0,yes
+1693,Air France,2,6th May 2023,True,Couple Leisure,Premium Economy,2023-05-01,2.0,5.0,1.0,5.0,2.0,,3.0,no
+1694,Air France,2,2nd May 2023,False,Couple Leisure,Business Class,2023-04-01,1.0,4.0,3.0,4.0,3.0,4.0,1.0,no
+1695,Air France,8,20th April 2023,True,Couple Leisure,Business Class,2023-04-01,3.0,5.0,4.0,4.0,5.0,,4.0,yes
+1696,Air France,8,19th April 2023,True,Couple Leisure,Business Class,2023-04-01,1.0,5.0,5.0,2.0,,,4.0,yes
+1697,Air France,1,11th April 2023,True,Solo Leisure,Economy Class,2023-04-01,4.0,5.0,4.0,5.0,,,4.0,yes
+1698,Air France,1,10th April 2023,True,Couple Leisure,Economy Class,2023-02-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+1699,Air France,9,1st April 2023,True,Solo Leisure,Business Class,2023-03-01,4.0,5.0,4.0,4.0,4.0,,4.0,yes
+1700,Air France,3,28th March 2023,True,Solo Leisure,Business Class,2023-03-01,4.0,1.0,1.0,4.0,2.0,,2.0,no
+1701,Air France,1,25th March 2023,False,Family Leisure,Economy Class,2023-03-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+1702,Air France,9,24th March 2023,True,Business,Economy Class,2023-03-01,5.0,5.0,5.0,4.0,,,5.0,yes
+1703,Air France,3,19th March 2023,True,Solo Leisure,Business Class,2023-03-01,4.0,5.0,1.0,5.0,3.0,,3.0,no
+1704,Air France,2,15th March 2023,True,Business,Economy Class,2023-03-01,3.0,,,1.0,,,2.0,no
+1705,Air France,5,8th March 2023,False,Couple Leisure,Business Class,2023-01-01,4.0,2.0,3.0,2.0,3.0,,3.0,no
+1706,Air France,7,5th March 2023,False,Family Leisure,Economy Class,2022-12-01,5.0,5.0,5.0,2.0,2.0,2.0,5.0,yes
+1707,Air France,9,2nd March 2023,False,Solo Leisure,Economy Class,2023-02-01,,,,,,,5.0,yes
+1708,Air France,1,21st February 2023,True,Business,Business Class,2023-02-01,5.0,5.0,5.0,5.0,5.0,5.0,5.0,yes
+1709,Air France,1,16th February 2023,True,Solo Leisure,Economy Class,2022-12-01,2.0,5.0,4.0,1.0,,,1.0,no
+1710,Air France,8,16th February 2023,True,Solo Leisure,Economy Class,2023-02-01,4.0,4.0,3.0,4.0,2.0,2.0,3.0,yes
+1711,Air France,1,13th February 2023,True,Solo Leisure,Premium Economy,2023-01-01,3.0,5.0,5.0,4.0,5.0,5.0,4.0,yes
+1712,Air France,8,12th February 2023,True,Solo Leisure,Economy Class,2023-02-01,4.0,1.0,1.0,3.0,1.0,,5.0,yes
+1713,Air France,8,2nd February 2023,True,Business,Business Class,2023-02-01,3.0,4.0,2.0,1.0,4.0,4.0,4.0,yes
+1714,Air France,2,1st February 2023,True,Couple Leisure,Economy Class,2023-01-01,1.0,1.0,1.0,2.0,2.0,2.0,1.0,no
+1715,Air France,2,27th January 2023,True,Solo Leisure,Business Class,2023-01-01,1.0,1.0,2.0,2.0,,,2.0,no
+1716,Air France,1,25th January 2023,False,Solo Leisure,Premium Economy,2023-01-01,2.0,4.0,,1.0,,,1.0,no
+1717,Air France,1,22nd January 2023,True,Couple Leisure,Business Class,2022-10-01,5.0,5.0,5.0,5.0,5.0,5.0,5.0,yes
+1718,Air France,2,14th January 2023,True,Couple Leisure,Economy Class,2023-01-01,3.0,4.0,1.0,2.0,3.0,2.0,2.0,no
+1719,Air France,9,10th January 2023,True,Family Leisure,Economy Class,2022-11-01,4.0,4.0,5.0,5.0,,,5.0,yes
+1720,Air France,1,10th January 2023,True,Solo Leisure,Economy Class,2022-12-01,4.0,5.0,5.0,5.0,,5.0,5.0,yes
+1721,Air France,1,9th January 2023,True,Couple Leisure,Economy Class,2023-01-01,3.0,4.0,3.0,1.0,,,1.0,no
+1722,Air France,2,8th January 2023,True,Couple Leisure,Economy Class,2023-01-01,3.0,3.0,2.0,1.0,1.0,2.0,1.0,no
+1723,Air France,3,16th December 2022,True,Solo Leisure,Economy Class,2022-09-01,3.0,3.0,4.0,3.0,5.0,,3.0,no
+1724,Air France,7,4th December 2022,False,Solo Leisure,Economy Class,2022-11-01,4.0,4.0,3.0,3.0,4.0,3.0,4.0,yes
+1725,Air France,9,28th November 2022,True,Solo Leisure,Business Class,2022-11-01,3.0,5.0,5.0,4.0,4.0,,5.0,yes
+1726,Air France,1,22nd November 2022,True,Business,Economy Class,2022-11-01,4.0,5.0,4.0,4.0,5.0,5.0,5.0,yes
+1727,Air France,8,17th November 2022,True,Solo Leisure,Business Class,2022-11-01,2.0,5.0,5.0,4.0,5.0,4.0,5.0,yes
+1728,Air France,8,14th November 2022,True,Couple Leisure,Economy Class,2022-11-01,4.0,5.0,4.0,4.0,3.0,,5.0,yes
+1729,Air France,2,8th November 2022,True,Business,Business Class,2022-08-01,3.0,2.0,1.0,2.0,1.0,1.0,1.0,no
+1730,Air France,9,5th November 2022,True,Couple Leisure,Economy Class,2022-10-01,4.0,5.0,4.0,5.0,,,5.0,yes
+1731,Air France,1,31st October 2022,True,Couple Leisure,Economy Class,2022-05-01,2.0,1.0,2.0,1.0,3.0,1.0,1.0,no
+1732,Air France,6,31st October 2022,True,Business,Business Class,2022-10-01,4.0,1.0,4.0,2.0,3.0,5.0,2.0,no
+1733,Air France,8,25th October 2022,True,Family Leisure,Premium Economy,2022-10-01,5.0,5.0,1.0,4.0,,5.0,5.0,yes
+1734,Air France,2,23rd October 2022,True,Couple Leisure,Business Class,2022-10-01,3.0,2.0,1.0,2.0,1.0,,1.0,no
+1735,Air France,1,22nd October 2022,True,Couple Leisure,Economy Class,2022-09-01,3.0,3.0,2.0,1.0,3.0,,2.0,no
+1736,Air France,1,21st October 2022,True,Business,Economy Class,2022-10-01,,,,1.0,,,1.0,no
+1737,Air France,1,19th October 2022,False,Family Leisure,Economy Class,2022-07-01,2.0,3.0,1.0,1.0,4.0,,1.0,no
+1738,Air France,9,16th October 2022,True,Business,Premium Economy,2022-10-01,4.0,5.0,4.0,4.0,5.0,,5.0,yes
+1739,Air France,2,12th October 2022,True,Solo Leisure,Business Class,2022-10-01,3.0,2.0,1.0,1.0,,1.0,1.0,no
+1740,Air France,1,10th October 2022,True,Solo Leisure,Business Class,2022-09-01,5.0,5.0,5.0,5.0,4.0,,5.0,yes
+1741,Air France,9,8th October 2022,True,Couple Leisure,Economy Class,2022-10-01,5.0,5.0,4.0,4.0,5.0,,5.0,yes
+1742,Air France,2,3rd October 2022,True,Couple Leisure,Economy Class,2022-10-01,3.0,1.0,1.0,1.0,2.0,3.0,1.0,no
+1743,Air France,9,30th September 2022,False,Solo Leisure,Economy Class,2022-09-01,4.0,5.0,5.0,3.0,5.0,5.0,5.0,yes
+1744,Air France,1,30th September 2022,True,Business,Economy Class,2022-09-01,2.0,2.0,,1.0,,,1.0,no
+1745,Air France,1,27th September 2022,True,Solo Leisure,Economy Class,2022-07-01,3.0,2.0,2.0,1.0,,,1.0,no
+1746,Air France,1,26th September 2022,False,Family Leisure,Economy Class,2022-06-01,5.0,5.0,5.0,5.0,5.0,5.0,5.0,yes
+1747,Air France,1,23rd September 2022,False,Solo Leisure,Economy Class,2022-04-01,1.0,1.0,,1.0,,,1.0,no
+1748,Air France,1,20th September 2022,True,Couple Leisure,Economy Class,2022-01-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+1749,Air France,9,8th September 2022,False,Family Leisure,Economy Class,2022-09-01,4.0,5.0,4.0,5.0,5.0,2.0,5.0,yes
+1750,Air France,7,8th September 2022,True,Couple Leisure,Economy Class,2022-09-01,4.0,3.0,3.0,3.0,4.0,4.0,5.0,yes
+1751,Air France,2,7th September 2022,True,Business,Economy Class,2022-09-01,3.0,3.0,1.0,1.0,1.0,,1.0,no
+1752,Air France,9,5th September 2022,True,Solo Leisure,First Class,2022-09-01,4.0,5.0,5.0,4.0,5.0,5.0,4.0,yes
+1753,Air France,1,30th August 2022,True,Solo Leisure,Economy Class,2022-08-01,2.0,5.0,2.0,1.0,,,1.0,no
+1754,Air France,1,26th August 2022,False,Family Leisure,Economy Class,2022-08-01,5.0,5.0,,5.0,,,5.0,yes
+1755,Air France,1,25th August 2022,True,Business,Economy Class,2022-04-01,,,,1.0,,,1.0,no
+1756,Air France,1,19th August 2022,False,Family Leisure,Economy Class,2022-08-01,5.0,5.0,5.0,5.0,5.0,5.0,5.0,yes
+1757,Air France,1,19th August 2022,True,Business,Business Class,2022-08-01,5.0,5.0,5.0,5.0,3.0,5.0,5.0,yes
+1758,Air France,1,13th August 2022,True,Couple Leisure,Economy Class,2022-08-01,3.0,1.0,,1.0,,,1.0,no
+1759,Air France,1,11th August 2022,True,Solo Leisure,Economy Class,2022-07-01,2.0,1.0,1.0,2.0,3.0,3.0,1.0,no
+1760,Air France,6,9th August 2022,True,Family Leisure,Economy Class,2022-07-01,3.0,3.0,3.0,2.0,4.0,,4.0,yes
+1761,Air France,6,4th August 2022,True,Business,Business Class,2021-12-01,4.0,4.0,5.0,1.0,4.0,4.0,2.0,no
+1762,Air France,1,4th August 2022,True,Family Leisure,Economy Class,2022-08-01,1.0,,,1.0,,,1.0,no
+8252,easyJet,1,26th July 2023,False,Family Leisure,Economy Class,2023-07-01,1.0,1.0,,1.0,,,1.0,no
+8253,easyJet,2,22nd July 2023,False,Couple Leisure,Economy Class,2023-07-01,2.0,2.0,3.0,1.0,1.0,,3.0,no
+8254,easyJet,1,21st July 2023,True,Business,Economy Class,2023-07-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+8255,easyJet,1,20th July 2023,False,Solo Leisure,Economy Class,2023-07-01,1.0,1.0,,1.0,,1.0,1.0,no
+8256,easyJet,1,16th July 2023,True,Family Leisure,Economy Class,2023-07-01,1.0,2.0,1.0,1.0,,,1.0,no
+8257,easyJet,1,11th July 2023,True,Solo Leisure,First Class,2023-07-01,5.0,5.0,5.0,5.0,,,5.0,yes
+8258,easyJet,1,10th July 2023,True,Solo Leisure,Economy Class,2023-07-01,2.0,1.0,,1.0,,1.0,1.0,no
+8259,easyJet,1,9th July 2023,False,Couple Leisure,Economy Class,2023-03-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+8260,easyJet,1,8th July 2023,True,Couple Leisure,Economy Class,2023-07-01,,,,1.0,,,1.0,no
+8261,easyJet,1,2nd July 2023,False,Couple Leisure,Economy Class,2023-06-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+8262,easyJet,1,1st July 2023,True,Couple Leisure,Economy Class,2023-07-01,,,,1.0,,,2.0,no
+8263,easyJet,1,26th June 2023,False,Solo Leisure,Economy Class,2023-06-01,2.0,2.0,2.0,2.0,1.0,1.0,2.0,no
+8264,easyJet,1,25th June 2023,True,Family Leisure,Economy Class,2023-06-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+8265,easyJet,1,22nd June 2023,True,Business,Economy Class,2023-06-01,,,,1.0,,,1.0,no
+8266,easyJet,2,22nd June 2023,True,Solo Leisure,Economy Class,2023-06-01,2.0,2.0,,2.0,2.0,1.0,1.0,no
+8267,easyJet,4,13th June 2023,False,Solo Leisure,Economy Class,2023-06-01,3.0,3.0,,3.0,,,3.0,no
+8268,easyJet,1,13th June 2023,True,Couple Leisure,Economy Class,2023-06-01,1.0,1.0,1.0,1.0,,,1.0,no
+8269,easyJet,1,12th June 2023,True,Solo Leisure,Economy Class,2023-06-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+8270,easyJet,1,7th June 2023,False,Solo Leisure,Economy Class,2023-06-01,1.0,1.0,,1.0,,,1.0,no
+8271,easyJet,1,7th June 2023,False,Business,Economy Class,2023-05-01,,,,,,,1.0,no
+8272,easyJet,1,31st May 2023,False,Family Leisure,Economy Class,2023-05-01,3.0,3.0,3.0,2.0,,,2.0,no
+8273,easyJet,1,20th May 2023,True,Solo Leisure,Economy Class,2023-05-01,2.0,1.0,,1.0,,,1.0,no
+8274,easyJet,1,19th May 2023,True,Solo Leisure,Economy Class,2023-05-01,,,,,,,1.0,no
+8275,easyJet,1,18th May 2023,True,Business,Economy Class,2023-05-01,4.0,5.0,5.0,5.0,,3.0,5.0,yes
+8276,easyJet,1,18th May 2023,True,Couple Leisure,Economy Class,2023-05-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+8277,easyJet,1,15th May 2023,False,Solo Leisure,Economy Class,2023-05-01,2.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+8278,easyJet,1,15th May 2023,True,Business,Economy Class,2023-05-01,2.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+8279,easyJet,1,13th May 2023,False,Couple Leisure,Economy Class,2023-05-01,1.0,2.0,1.0,1.0,1.0,,1.0,no
+8280,easyJet,8,9th May 2023,True,Solo Leisure,Economy Class,2023-03-01,4.0,5.0,4.0,3.0,,,4.0,yes
+8281,easyJet,2,8th May 2023,True,Business,Economy Class,2023-05-01,2.0,1.0,,1.0,,,1.0,no
+8282,easyJet,1,5th May 2023,True,Solo Leisure,Economy Class,2022-06-01,4.0,4.0,,4.0,,,1.0,no
+8283,easyJet,8,2nd May 2023,True,Business,Economy Class,2023-02-01,3.0,5.0,3.0,3.0,,,4.0,yes
+8284,easyJet,1,1st May 2023,True,Business,Economy Class,2023-04-01,3.0,3.0,,1.0,,,1.0,no
+8285,easyJet,1,1st May 2023,True,Solo Leisure,Economy Class,2023-05-01,1.0,2.0,1.0,1.0,1.0,1.0,1.0,no
+8286,easyJet,2,26th April 2023,True,Solo Leisure,Economy Class,2023-04-01,1.0,2.0,2.0,1.0,,,3.0,no
+8287,easyJet,1,13th April 2023,True,Solo Leisure,First Class,2023-04-01,5.0,5.0,5.0,5.0,,,5.0,yes
+8288,easyJet,2,11th April 2023,True,Family Leisure,Economy Class,2023-04-01,1.0,4.0,2.0,1.0,,,3.0,no
+8289,easyJet,8,9th April 2023,False,Solo Leisure,Economy Class,2023-03-01,3.0,4.0,4.0,4.0,,,4.0,yes
+8290,easyJet,1,8th April 2023,True,Family Leisure,Economy Class,2023-04-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+8291,easyJet,1,6th April 2023,True,Couple Leisure,Economy Class,2023-04-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+8292,easyJet,1,2nd April 2023,False,Solo Leisure,Economy Class,2023-04-01,1.0,1.0,,1.0,,,1.0,no
+8293,easyJet,2,31st March 2023,False,Business,Economy Class,2023-03-01,2.0,5.0,,1.0,,,3.0,no
+8294,easyJet,1,30th March 2023,False,Couple Leisure,Economy Class,2023-03-01,1.0,1.0,,1.0,,,1.0,no
+8295,easyJet,1,25th March 2023,True,Business,Economy Class,2023-03-01,3.0,2.0,2.0,1.0,1.0,1.0,1.0,no
+8296,easyJet,1,24th March 2023,True,Family Leisure,Economy Class,2023-03-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+8297,easyJet,1,19th March 2023,True,Solo Leisure,Economy Class,2023-03-01,1.0,1.0,,1.0,,,1.0,no
+8298,easyJet,4,16th March 2023,True,Couple Leisure,Economy Class,2023-03-01,1.0,2.0,,2.0,,,2.0,no
+8299,easyJet,6,14th March 2023,True,Solo Leisure,Economy Class,2023-03-01,1.0,3.0,,1.0,,,4.0,yes
+8300,easyJet,1,13th March 2023,True,Family Leisure,Economy Class,2023-03-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+8301,easyJet,1,10th March 2023,True,Solo Leisure,Economy Class,2023-03-01,1.0,3.0,3.0,1.0,,,1.0,no
+8302,easyJet,8,2nd February 2023,False,Solo Leisure,Economy Class,2022-08-01,5.0,5.0,5.0,5.0,,,5.0,yes
+8303,easyJet,9,30th January 2023,True,Couple Leisure,Economy Class,2023-01-01,4.0,5.0,,3.0,,,5.0,yes
+8304,easyJet,1,25th January 2023,False,Couple Leisure,Economy Class,2023-01-01,4.0,3.0,,3.0,,,5.0,yes
+8305,easyJet,1,17th January 2023,True,Couple Leisure,Economy Class,2023-01-01,5.0,5.0,5.0,5.0,,,5.0,yes
+8306,easyJet,1,15th January 2023,True,Solo Leisure,Economy Class,2023-01-01,2.0,1.0,2.0,1.0,,,1.0,no
+8307,easyJet,1,29th December 2022,True,Couple Leisure,Economy Class,2022-12-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+8308,easyJet,3,29th December 2022,True,Family Leisure,Economy Class,2022-12-01,3.0,3.0,3.0,2.0,1.0,,3.0,no
+8309,easyJet,1,15th December 2022,False,Solo Leisure,Economy Class,2022-12-01,1.0,2.0,1.0,1.0,1.0,1.0,1.0,no
+8310,easyJet,2,11th December 2022,False,Solo Leisure,Economy Class,2022-09-01,1.0,4.0,3.0,4.0,1.0,1.0,2.0,no
+8311,easyJet,1,7th December 2022,False,Family Leisure,Economy Class,2022-12-01,,,,,,,1.0,no
+8312,easyJet,1,4th December 2022,False,Solo Leisure,Economy Class,2022-07-01,4.0,5.0,5.0,4.0,,,5.0,yes
+8313,easyJet,1,4th December 2022,False,Family Leisure,Economy Class,2022-12-01,1.0,1.0,,1.0,,,1.0,no
+8314,easyJet,1,2nd December 2022,False,Solo Leisure,Economy Class,2022-11-01,4.0,5.0,5.0,5.0,,,5.0,yes
+8315,easyJet,1,26th November 2022,True,Couple Leisure,Economy Class,2022-07-01,,,,,,,1.0,no
+8316,easyJet,1,23rd November 2022,True,Solo Leisure,Economy Class,2022-11-01,5.0,1.0,,1.0,,,3.0,no
+8317,easyJet,7,14th November 2022,True,Business,Economy Class,2022-11-01,3.0,3.0,,2.0,,,5.0,yes
+8318,easyJet,1,11th November 2022,False,Family Leisure,Economy Class,2022-11-01,5.0,5.0,3.0,5.0,,,5.0,yes
+8319,easyJet,3,7th November 2022,True,Solo Leisure,Economy Class,2022-11-01,2.0,1.0,,4.0,,,2.0,no
+8320,easyJet,1,25th October 2022,False,Solo Leisure,Economy Class,2022-09-01,1.0,1.0,,1.0,,,1.0,no
+8321,easyJet,1,25th October 2022,True,Business,Economy Class,2022-10-01,,,,1.0,,,1.0,no
+8322,easyJet,8,25th October 2022,True,Couple Leisure,Economy Class,2022-10-01,4.0,4.0,3.0,3.0,,,5.0,yes
+8323,easyJet,2,21st October 2022,False,Family Leisure,Economy Class,2022-07-01,,,,1.0,,,1.0,no
+8324,easyJet,1,18th October 2022,True,Business,Economy Class,2022-10-01,2.0,3.0,,1.0,1.0,1.0,3.0,no
+8325,easyJet,9,17th October 2022,False,Couple Leisure,Economy Class,2022-10-01,3.0,5.0,,5.0,,,5.0,yes
+8326,easyJet,2,6th October 2022,False,Family Leisure,Economy Class,2022-03-01,3.0,1.0,,3.0,,,2.0,no
+8327,easyJet,1,4th October 2022,False,Business,Economy Class,2022-08-01,1.0,,,1.0,,,1.0,no
+8328,easyJet,1,3rd October 2022,True,Solo Leisure,Economy Class,2022-10-01,1.0,1.0,,1.0,,1.0,1.0,no
+8329,easyJet,1,3rd October 2022,True,Couple Leisure,Economy Class,2022-09-01,1.0,5.0,,1.0,1.0,1.0,2.0,no
+8330,easyJet,1,1st October 2022,False,Family Leisure,Economy Class,2022-09-01,1.0,1.0,,1.0,,,1.0,no
+8331,easyJet,1,30th September 2022,False,Couple Leisure,Economy Class,2022-09-01,1.0,3.0,2.0,1.0,1.0,1.0,1.0,no
+8332,easyJet,1,27th September 2022,False,Solo Leisure,Economy Class,2022-08-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+8333,easyJet,1,27th September 2022,True,Family Leisure,Economy Class,2022-06-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+8334,easyJet,1,23rd September 2022,False,Couple Leisure,Economy Class,2022-09-01,3.0,5.0,3.0,5.0,,,5.0,yes
+8335,easyJet,1,22nd September 2022,False,Couple Leisure,Economy Class,2022-09-01,1.0,1.0,,1.0,,,1.0,no
+8336,easyJet,1,21st September 2022,True,Solo Leisure,Economy Class,2022-09-01,1.0,1.0,,1.0,,,1.0,no
+8337,easyJet,1,20th September 2022,True,Couple Leisure,Economy Class,2022-09-01,2.0,2.0,,1.0,,,1.0,no
+8338,easyJet,1,18th September 2022,False,Couple Leisure,Economy Class,2022-09-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+8339,easyJet,1,18th September 2022,True,Solo Leisure,Economy Class,2022-09-01,2.0,1.0,1.0,1.0,,,1.0,no
+8340,easyJet,1,16th September 2022,False,Solo Leisure,Economy Class,2022-09-01,3.0,3.0,1.0,1.0,1.0,1.0,3.0,no
+8341,easyJet,1,7th September 2022,True,Couple Leisure,Economy Class,2022-08-01,4.0,4.0,,1.0,,,1.0,no
+8342,easyJet,1,2nd September 2022,True,Couple Leisure,Economy Class,2022-08-01,2.0,1.0,1.0,1.0,,,2.0,no
+8343,easyJet,1,1st September 2022,False,Couple Leisure,Economy Class,2022-08-01,1.0,1.0,,1.0,1.0,1.0,1.0,no
+8344,easyJet,1,31st August 2022,True,Couple Leisure,Economy Class,2022-08-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+8345,easyJet,2,19th August 2022,True,Solo Leisure,Economy Class,2022-08-01,3.0,1.0,,1.0,,,1.0,no
+8346,easyJet,2,17th August 2022,False,Family Leisure,Economy Class,2022-08-01,3.0,4.0,,1.0,,,3.0,no
+8347,easyJet,1,11th August 2022,True,Couple Leisure,Economy Class,2022-05-01,,,,,,,1.0,no
+8348,easyJet,1,29th July 2022,True,Solo Leisure,Economy Class,2022-07-01,1.0,1.0,,1.0,,,1.0,no
+8349,easyJet,1,28th July 2022,False,Solo Leisure,Economy Class,2022-03-01,1.0,1.0,,1.0,,,1.0,no
+8350,easyJet,1,18th July 2022,True,Family Leisure,Economy Class,2022-07-01,1.0,1.0,,1.0,,,1.0,no
+8351,easyJet,1,15th July 2022,True,Solo Leisure,Economy Class,2022-07-01,,,,1.0,,,1.0,no
+14077,Lufthansa,1,27th July 2023,False,Business,Economy Class,2023-07-01,4.0,2.0,1.0,1.0,1.0,1.0,1.0,no
+14078,Lufthansa,1,21st July 2023,True,Solo Leisure,Economy Class,2023-07-01,3.0,2.0,1.0,1.0,,,1.0,no
+14079,Lufthansa,9,18th July 2023,True,Couple Leisure,Economy Class,2023-07-01,4.0,5.0,5.0,5.0,,3.0,4.0,yes
+14080,Lufthansa,3,17th July 2023,True,Solo Leisure,Economy Class,2023-07-01,3.0,3.0,1.0,1.0,,,2.0,no
+14081,Lufthansa,3,15th July 2023,True,Family Leisure,Economy Class,2023-07-01,4.0,1.0,1.0,1.0,,,2.0,no
+14082,Lufthansa,1,15th July 2023,False,Couple Leisure,Economy Class,2023-07-01,2.0,2.0,,1.0,,,3.0,no
+14083,Lufthansa,3,15th July 2023,False,Solo Leisure,Economy Class,2023-07-01,3.0,3.0,1.0,2.0,,,2.0,no
+14084,Lufthansa,1,13th July 2023,False,Solo Leisure,Economy Class,2023-07-01,4.0,4.0,1.0,1.0,,,1.0,no
+14085,Lufthansa,1,12th July 2023,True,Solo Leisure,Economy Class,2023-07-01,1.0,1.0,,1.0,,,1.0,no
+14086,Lufthansa,4,10th July 2023,True,Business,Economy Class,2023-07-01,3.0,4.0,1.0,1.0,,,1.0,no
+14087,Lufthansa,2,10th July 2023,True,Business,Economy Class,2022-08-01,4.0,4.0,,1.0,,,2.0,no
+14088,Lufthansa,8,10th July 2023,False,Family Leisure,Economy Class,2023-03-01,5.0,5.0,4.0,5.0,,,5.0,yes
+14089,Lufthansa,1,10th July 2023,True,Family Leisure,Economy Class,2023-07-01,1.0,3.0,2.0,1.0,3.0,3.0,1.0,no
+14090,Lufthansa,2,9th July 2023,False,Solo Leisure,Economy Class,2023-06-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+14091,Lufthansa,1,7th July 2023,False,Couple Leisure,Economy Class,2023-06-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+14092,Lufthansa,3,7th July 2023,True,Family Leisure,Economy Class,2023-07-01,2.0,2.0,1.0,2.0,3.0,,1.0,no
+14093,Lufthansa,2,6th July 2023,False,Solo Leisure,Economy Class,2023-04-01,2.0,1.0,1.0,2.0,,,2.0,no
+14094,Lufthansa,1,6th July 2023,True,Family Leisure,Economy Class,2023-07-01,3.0,4.0,3.0,1.0,1.0,1.0,1.0,no
+14095,Lufthansa,7,5th July 2023,True,Business,Business Class,2023-06-01,3.0,4.0,3.0,3.0,,,4.0,yes
+14096,Lufthansa,1,3rd July 2023,False,Family Leisure,Economy Class,2023-07-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+14097,Lufthansa,4,2nd July 2023,True,Business,Economy Class,2023-06-01,1.0,1.0,,4.0,,,3.0,no
+14098,Lufthansa,8,2nd July 2023,True,Couple Leisure,Economy Class,2023-05-01,4.0,4.0,4.0,4.0,4.0,,3.0,yes
+14099,Lufthansa,1,1st July 2023,False,Family Leisure,Economy Class,2023-06-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+14100,Lufthansa,1,1st July 2023,True,Couple Leisure,Economy Class,2022-08-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+14101,Lufthansa,3,29th June 2023,True,Solo Leisure,Economy Class,2023-05-01,3.0,4.0,,1.0,,,1.0,no
+14102,Lufthansa,1,29th June 2023,True,Business,Economy Class,2023-06-01,2.0,3.0,,2.0,,,1.0,no
+14103,Lufthansa,1,27th June 2023,True,Solo Leisure,Business Class,2023-05-01,1.0,2.0,2.0,2.0,2.0,2.0,1.0,no
+14104,Lufthansa,1,27th June 2023,True,Solo Leisure,Economy Class,2023-06-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+14105,Lufthansa,3,26th June 2023,True,Solo Leisure,Business Class,2023-06-01,3.0,3.0,2.0,2.0,,,2.0,no
+14106,Lufthansa,1,25th June 2023,False,Solo Leisure,Economy Class,2023-06-01,1.0,1.0,1.0,1.0,,,1.0,no
+14107,Lufthansa,6,25th June 2023,True,Business,Economy Class,2023-06-01,1.0,1.0,4.0,3.0,2.0,,4.0,no
+14108,Lufthansa,7,24th June 2023,True,Couple Leisure,Economy Class,2023-06-01,5.0,4.0,2.0,2.0,,,4.0,yes
+14109,Lufthansa,9,24th June 2023,True,Couple Leisure,Economy Class,2023-06-01,3.0,4.0,3.0,5.0,,,4.0,yes
+14110,Lufthansa,1,24th June 2023,False,Solo Leisure,Economy Class,2023-06-01,3.0,2.0,,2.0,,,1.0,no
+14111,Lufthansa,1,23rd June 2023,True,Solo Leisure,Economy Class,2023-06-01,2.0,2.0,1.0,1.0,1.0,2.0,1.0,no
+14112,Lufthansa,2,20th June 2023,True,Couple Leisure,Economy Class,2023-06-01,1.0,1.0,1.0,1.0,,,1.0,no
+14113,Lufthansa,1,19th June 2023,True,Solo Leisure,Economy Class,2023-06-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+14114,Lufthansa,1,19th June 2023,False,Family Leisure,Economy Class,2023-06-01,1.0,1.0,1.0,1.0,1.0,,1.0,no
+14115,Lufthansa,1,18th June 2023,True,Solo Leisure,Economy Class,2023-06-01,3.0,2.0,2.0,1.0,3.0,1.0,1.0,no
+14116,Lufthansa,3,17th June 2023,False,Family Leisure,Economy Class,2023-06-01,1.0,1.0,3.0,4.0,1.0,1.0,1.0,no
+14117,Lufthansa,1,16th June 2023,True,Solo Leisure,Economy Class,2023-06-01,2.0,2.0,2.0,1.0,,,2.0,no
+14118,Lufthansa,1,16th June 2023,True,Couple Leisure,Business Class,2023-06-01,5.0,5.0,5.0,5.0,5.0,,5.0,yes
+14119,Lufthansa,8,15th June 2023,True,Couple Leisure,Business Class,2022-09-01,4.0,5.0,5.0,4.0,,,4.0,yes
+14120,Lufthansa,8,15th June 2023,True,Couple Leisure,Economy Class,2022-09-01,4.0,5.0,4.0,4.0,,,4.0,yes
+14121,Lufthansa,3,15th June 2023,True,Couple Leisure,Economy Class,2023-06-01,2.0,2.0,2.0,1.0,2.0,,1.0,no
+14122,Lufthansa,2,14th June 2023,True,Family Leisure,Economy Class,2023-06-01,1.0,1.0,1.0,3.0,1.0,1.0,2.0,no
+14123,Lufthansa,5,12th June 2023,True,Family Leisure,Economy Class,2022-12-01,2.0,3.0,2.0,4.0,4.0,3.0,3.0,no
+14124,Lufthansa,2,10th June 2023,True,Couple Leisure,Economy Class,2022-10-01,1.0,1.0,1.0,1.0,2.0,,2.0,no
+14125,Lufthansa,3,9th June 2023,False,Solo Leisure,Economy Class,2023-05-01,1.0,3.0,,5.0,,,1.0,no
+14126,Lufthansa,2,7th June 2023,False,Couple Leisure,Economy Class,2023-06-01,1.0,1.0,1.0,3.0,1.0,1.0,2.0,no
+14127,Lufthansa,1,6th June 2023,True,Solo Leisure,Economy Class,2023-05-01,3.0,3.0,4.0,1.0,4.0,,1.0,no
+14128,Lufthansa,1,6th June 2023,False,Couple Leisure,Economy Class,2023-06-01,2.0,2.0,1.0,1.0,,,1.0,no
+14129,Lufthansa,4,4th June 2023,True,Couple Leisure,Economy Class,2023-05-01,1.0,4.0,1.0,3.0,3.0,1.0,3.0,no
+14130,Lufthansa,1,31st May 2023,True,Business,Business Class,2023-04-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+14131,Lufthansa,5,29th May 2023,True,Couple Leisure,Economy Class,2023-05-01,3.0,4.0,3.0,4.0,3.0,3.0,3.0,no
+14132,Lufthansa,2,29th May 2023,True,Couple Leisure,Economy Class,2023-05-01,2.0,3.0,1.0,2.0,2.0,1.0,1.0,no
+14133,Lufthansa,2,26th May 2023,True,Business,Business Class,2023-05-01,1.0,2.0,1.0,1.0,,,1.0,no
+14134,Lufthansa,3,25th May 2023,False,Solo Leisure,Economy Class,2023-04-01,2.0,3.0,3.0,1.0,3.0,,3.0,no
+14135,Lufthansa,1,25th May 2023,False,Family Leisure,Economy Class,2022-12-01,1.0,1.0,,1.0,,,1.0,no
+14136,Lufthansa,2,24th May 2023,True,Business,Economy Class,2023-05-01,3.0,4.0,4.0,1.0,3.0,1.0,2.0,no
+14137,Lufthansa,1,24th May 2023,True,Business,Economy Class,2023-05-01,4.0,4.0,4.0,5.0,2.0,,5.0,yes
+14138,Lufthansa,8,21st May 2023,True,Solo Leisure,Business Class,2023-04-01,4.0,5.0,5.0,5.0,5.0,2.0,4.0,yes
+14139,Lufthansa,3,19th May 2023,True,Couple Leisure,Economy Class,2023-05-01,2.0,2.0,,2.0,,,1.0,no
+14140,Lufthansa,3,19th May 2023,True,Solo Leisure,Business Class,2023-05-01,2.0,3.0,1.0,1.0,,3.0,1.0,no
+14141,Lufthansa,3,17th May 2023,True,Couple Leisure,Economy Class,2023-05-01,3.0,3.0,1.0,2.0,1.0,,1.0,no
+14142,Lufthansa,3,15th May 2023,True,Family Leisure,Economy Class,2023-05-01,2.0,3.0,2.0,3.0,3.0,2.0,2.0,no
+14143,Lufthansa,1,15th May 2023,True,Family Leisure,Economy Class,2022-08-01,3.0,2.0,3.0,1.0,3.0,1.0,1.0,no
+14144,Lufthansa,3,13th May 2023,True,Business,Business Class,2023-05-01,2.0,3.0,2.0,1.0,,,1.0,no
+14145,Lufthansa,5,12th May 2023,True,Business,Economy Class,2023-05-01,3.0,3.0,2.0,3.0,,,1.0,no
+14146,Lufthansa,2,12th May 2023,False,Couple Leisure,Economy Class,2022-06-01,,,,,,,2.0,no
+14147,Lufthansa,1,11th May 2023,True,Business,Business Class,2023-03-01,1.0,1.0,,1.0,,,1.0,no
+14148,Lufthansa,1,11th May 2023,True,Family Leisure,Economy Class,2023-04-01,,,,1.0,,,1.0,no
+14149,Lufthansa,1,10th May 2023,True,Business,Economy Class,2022-12-01,2.0,1.0,,1.0,,,1.0,no
+14150,Lufthansa,1,5th May 2023,True,Family Leisure,Economy Class,2022-06-01,,,,1.0,,,1.0,no
+14151,Lufthansa,1,5th May 2023,True,Family Leisure,Economy Class,2022-06-01,2.0,3.0,3.0,1.0,,,2.0,no
+14152,Lufthansa,3,2nd May 2023,False,Business,Economy Class,2023-05-01,3.0,1.0,1.0,2.0,,,2.0,no
+14153,Lufthansa,1,28th April 2023,False,Solo Leisure,Business Class,2023-04-01,4.0,5.0,5.0,4.0,3.0,3.0,5.0,yes
+14154,Lufthansa,3,24th April 2023,True,Solo Leisure,Economy Class,2023-04-01,1.0,1.0,1.0,2.0,,,1.0,no
+14155,Lufthansa,1,22nd April 2023,True,Family Leisure,Economy Class,2022-12-01,3.0,3.0,1.0,1.0,,,1.0,no
+14156,Lufthansa,9,19th April 2023,True,Couple Leisure,Economy Class,2023-04-01,3.0,5.0,4.0,5.0,5.0,5.0,5.0,yes
+14157,Lufthansa,3,16th April 2023,True,Couple Leisure,Economy Class,2022-10-01,1.0,4.0,2.0,1.0,2.0,,3.0,no
+14158,Lufthansa,3,13th April 2023,True,Couple Leisure,Economy Class,2022-12-01,2.0,5.0,5.0,5.0,3.0,,1.0,no
+14159,Lufthansa,4,8th April 2023,True,Business,First Class,2023-03-01,3.0,2.0,1.0,3.0,1.0,,2.0,no
+14160,Lufthansa,1,8th April 2023,False,Couple Leisure,Economy Class,2023-04-01,,,,5.0,,,5.0,yes
+14161,Lufthansa,3,7th April 2023,False,Solo Leisure,Economy Class,2023-03-01,3.0,2.0,1.0,1.0,,,1.0,no
+14162,Lufthansa,2,3rd April 2023,False,Solo Leisure,Business Class,2022-11-01,2.0,4.0,4.0,1.0,,,2.0,no
+14163,Lufthansa,1,3rd April 2023,False,Solo Leisure,Economy Class,2023-04-01,1.0,5.0,1.0,1.0,,1.0,1.0,no
+14164,Lufthansa,1,3rd April 2023,False,Family Leisure,Economy Class,2023-04-01,3.0,3.0,3.0,2.0,4.0,,2.0,no
+14165,Lufthansa,6,30th March 2023,True,Solo Leisure,Economy Class,2023-03-01,1.0,5.0,2.0,4.0,1.0,,3.0,no
+14166,Lufthansa,1,29th March 2023,True,Couple Leisure,Economy Class,2023-03-01,1.0,1.0,1.0,1.0,1.0,,1.0,no
+14167,Lufthansa,1,27th March 2023,True,Business,Business Class,2023-03-01,4.0,1.0,3.0,1.0,1.0,5.0,1.0,no
+14168,Lufthansa,1,25th March 2023,False,Couple Leisure,Economy Class,2023-03-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+14169,Lufthansa,1,24th March 2023,True,Family Leisure,Economy Class,2023-02-01,3.0,5.0,,1.0,,,1.0,no
+14170,Lufthansa,3,23rd March 2023,True,Couple Leisure,Economy Class,2023-03-01,2.0,2.0,1.0,1.0,1.0,1.0,2.0,no
+14171,Lufthansa,1,21st March 2023,True,Business,Economy Class,2023-03-01,1.0,1.0,1.0,1.0,,,1.0,no
+14172,Lufthansa,1,18th March 2023,True,Family Leisure,Economy Class,2023-03-01,1.0,1.0,3.0,2.0,4.0,3.0,2.0,no
+14173,Lufthansa,9,17th March 2023,True,Business,Business Class,2023-03-01,3.0,5.0,5.0,1.0,,4.0,4.0,no
+14174,Lufthansa,3,16th March 2023,True,Business,Business Class,2023-03-01,1.0,3.0,2.0,2.0,1.0,1.0,2.0,no
+14175,Lufthansa,5,14th March 2023,True,Solo Leisure,Economy Class,2022-12-01,5.0,2.0,2.0,5.0,1.0,1.0,2.0,yes
+14176,Lufthansa,5,11th March 2023,False,Family Leisure,Economy Class,2023-03-01,5.0,4.0,1.0,4.0,1.0,1.0,3.0,no
+15209,Norwegian,1,7th July 2023,True,Solo Leisure,Economy Class,2023-07-01,3.0,5.0,,5.0,,,5.0,yes
+15210,Norwegian,1,5th July 2023,True,Family Leisure,Economy Class,2023-07-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+15211,Norwegian,1,10th May 2023,False,Family Leisure,Economy Class,2023-05-01,4.0,5.0,3.0,5.0,1.0,3.0,4.0,yes
+15212,Norwegian,2,21st April 2023,True,Solo Leisure,Economy Class,2023-04-01,3.0,3.0,,1.0,3.0,3.0,1.0,no
+15213,Norwegian,3,16th April 2023,False,Solo Leisure,Economy Class,2023-04-01,2.0,4.0,1.0,4.0,1.0,2.0,1.0,no
+15214,Norwegian,1,21st January 2023,True,Couple Leisure,Economy Class,2022-12-01,1.0,2.0,,3.0,,,1.0,no
+15215,Norwegian,1,15th December 2022,False,Couple Leisure,Economy Class,2022-11-01,1.0,1.0,2.0,1.0,1.0,1.0,1.0,no
+15216,Norwegian,1,23rd October 2022,True,Solo Leisure,Economy Class,2022-09-01,,,,1.0,,,1.0,no
+15217,Norwegian,2,19th October 2022,True,Couple Leisure,Economy Class,2022-09-01,1.0,1.0,,1.0,1.0,1.0,2.0,no
+15218,Norwegian,4,15th October 2022,True,Couple Leisure,Economy Class,2022-10-01,1.0,3.0,2.0,2.0,,1.0,2.0,no
+15219,Norwegian,1,21st September 2022,True,Couple Leisure,Economy Class,2022-09-01,5.0,5.0,5.0,4.0,,,5.0,yes
+15220,Norwegian,1,18th September 2022,True,Couple Leisure,Economy Class,2022-09-01,4.0,5.0,4.0,5.0,,5.0,5.0,yes
+15221,Norwegian,9,18th September 2022,True,Couple Leisure,Economy Class,2022-09-01,4.0,5.0,4.0,4.0,,,5.0,yes
+15222,Norwegian,1,28th August 2022,True,Family Leisure,Economy Class,2022-08-01,,,,1.0,,,1.0,no
+15223,Norwegian,1,23rd July 2022,True,Solo Leisure,Economy Class,2022-07-01,5.0,5.0,,5.0,,,5.0,yes
+15224,Norwegian,1,17th July 2022,True,Couple Leisure,Economy Class,2022-06-01,4.0,5.0,,5.0,,4.0,5.0,yes
+15225,Norwegian,1,13th July 2022,True,Couple Leisure,Economy Class,2022-06-01,3.0,3.0,,1.0,,,1.0,yes
+15226,Norwegian,9,6th July 2022,True,Solo Leisure,Economy Class,2022-07-01,4.0,5.0,4.0,4.0,4.0,4.0,3.0,yes
+15227,Norwegian,6,4th July 2022,True,Solo Leisure,Economy Class,2022-07-01,4.0,4.0,4.0,4.0,,,3.0,yes
+15228,Norwegian,4,3rd July 2022,True,Solo Leisure,Economy Class,2022-07-01,2.0,4.0,,3.0,,,3.0,no
+15229,Norwegian,1,4th June 2022,True,Couple Leisure,Economy Class,2022-06-01,2.0,1.0,,1.0,,,1.0,no
+15230,Norwegian,1,4th June 2022,True,Family Leisure,Economy Class,2021-07-01,,,,,,,1.0,no
+15231,Norwegian,1,15th April 2022,True,Solo Leisure,Economy Class,2022-02-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+15232,Norwegian,1,31st March 2022,True,Couple Leisure,Economy Class,2021-09-01,,,,,,,2.0,no
+15233,Norwegian,3,23rd February 2022,True,Business,Economy Class,2021-10-01,2.0,2.0,,1.0,,,2.0,no
+15234,Norwegian,1,3rd February 2022,True,Solo Leisure,Economy Class,2021-09-01,,,,,,,1.0,no
+15235,Norwegian,9,5th January 2022,True,Family Leisure,Economy Class,2021-12-01,4.0,3.0,4.0,5.0,,,5.0,yes
+15236,Norwegian,1,29th November 2021,False,Couple Leisure,Economy Class,2020-12-01,1.0,1.0,,1.0,,,1.0,no
+15237,Norwegian,9,1st September 2021,True,Solo Leisure,Economy Class,2021-08-01,4.0,4.0,4.0,5.0,,4.0,5.0,yes
+15238,Norwegian,1,24th March 2021,False,Couple Leisure,Economy Class,2020-04-01,1.0,1.0,,1.0,,,1.0,no
+15239,Norwegian,1,20th January 2021,True,Couple Leisure,Economy Class,2020-05-01,1.0,1.0,,1.0,,,1.0,no
+15240,Norwegian,1,9th November 2020,True,Business,Economy Class,2020-11-01,5.0,5.0,5.0,5.0,5.0,5.0,5.0,yes
+15241,Norwegian,2,6th October 2020,False,Family Leisure,Economy Class,2020-05-01,,,1.0,,,,1.0,no
+15242,Norwegian,1,9th September 2020,True,Couple Leisure,Economy Class,2020-05-01,,,,,,,1.0,no
+15243,Norwegian,1,15th August 2020,True,Couple Leisure,Economy Class,2020-03-01,,,,,,,1.0,no
+15244,Norwegian,1,10th August 2020,False,Couple Leisure,Economy Class,2020-08-01,,,,,,,5.0,yes
+15245,Norwegian,1,5th August 2020,True,Couple Leisure,Economy Class,2019-12-01,,,,,,,1.0,no
+15246,Norwegian,1,27th July 2020,False,Family Leisure,Economy Class,2020-07-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+15247,Norwegian,1,19th May 2020,True,Solo Leisure,Premium Economy,2020-03-01,,,,,,,1.0,no
+15248,Norwegian,1,6th May 2020,True,Solo Leisure,Economy Class,2020-03-01,,,,,,,1.0,no
+15249,Norwegian,1,30th April 2020,True,Solo Leisure,Economy Class,2020-04-01,,,,,,,1.0,no
+15250,Norwegian,1,25th April 2020,True,Couple Leisure,Economy Class,2020-04-01,,,,,,,1.0,no
+15251,Norwegian,1,17th April 2020,True,Solo Leisure,Economy Class,2020-04-01,,,,,,,1.0,no
+15252,Norwegian,1,23rd March 2020,True,Couple Leisure,Premium Economy,2019-10-01,4.0,4.0,4.0,3.0,4.0,3.0,1.0,no
+15253,Norwegian,8,19th March 2020,True,Family Leisure,Economy Class,2020-03-01,4.0,5.0,4.0,4.0,,2.0,5.0,yes
+15254,Norwegian,2,12th March 2020,False,Solo Leisure,Economy Class,2020-03-01,,,,,,,1.0,no
+15255,Norwegian,1,9th March 2020,True,Business,Economy Class,2020-03-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+15256,Norwegian,6,1st March 2020,False,Solo Leisure,Economy Class,2020-02-01,1.0,3.0,2.0,4.0,,,3.0,yes
+15257,Norwegian,1,24th February 2020,False,Couple Leisure,Economy Class,2020-02-01,1.0,1.0,,1.0,,,1.0,no
+15258,Norwegian,1,23rd February 2020,False,Solo Leisure,Economy Class,2020-02-01,2.0,2.0,,1.0,,1.0,1.0,no
+15259,Norwegian,9,23rd February 2020,False,Couple Leisure,Economy Class,2019-10-01,5.0,4.0,,3.0,,,5.0,yes
+15260,Norwegian,1,21st February 2020,True,Solo Leisure,Economy Class,2020-02-01,1.0,2.0,1.0,1.0,3.0,,1.0,no
+15261,Norwegian,9,18th February 2020,True,Family Leisure,Economy Class,2020-02-01,4.0,5.0,3.0,5.0,5.0,5.0,5.0,yes
+15262,Norwegian,1,18th February 2020,True,Solo Leisure,Economy Class,2020-02-01,3.0,2.0,,2.0,,,3.0,no
+15263,Norwegian,6,13th February 2020,True,Solo Leisure,Economy Class,2020-02-01,2.0,3.0,,3.0,2.0,1.0,3.0,yes
+15264,Norwegian,1,5th February 2020,True,Solo Leisure,Economy Class,2020-02-01,3.0,2.0,,1.0,3.0,,2.0,no
+15265,Norwegian,2,5th February 2020,False,Couple Leisure,Economy Class,2019-04-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+15266,Norwegian,1,28th January 2020,True,Family Leisure,Economy Class,2019-12-01,1.0,1.0,,1.0,4.0,,1.0,no
+15267,Norwegian,1,23rd January 2020,False,Couple Leisure,Premium Economy,2020-01-01,5.0,5.0,5.0,5.0,4.0,3.0,5.0,yes
+15268,Norwegian,3,23rd January 2020,True,Family Leisure,Economy Class,2020-01-01,3.0,4.0,2.0,3.0,2.0,4.0,4.0,no
+15269,Norwegian,9,18th January 2020,True,Business,Premium Economy,2020-01-01,4.0,5.0,5.0,3.0,3.0,5.0,5.0,yes
+15270,Norwegian,1,16th January 2020,True,Couple Leisure,Premium Economy,2019-09-01,2.0,3.0,1.0,1.0,,,1.0,no
+15271,Norwegian,1,8th January 2020,True,Family Leisure,Economy Class,2019-12-01,1.0,1.0,1.0,1.0,,,1.0,no
+15272,Norwegian,3,1st January 2020,True,Solo Leisure,Premium Economy,2019-12-01,3.0,3.0,,1.0,,,2.0,no
+15273,Norwegian,3,31st December 2019,True,Family Leisure,Economy Class,2019-12-01,4.0,1.0,2.0,1.0,3.0,1.0,3.0,yes
+15274,Norwegian,7,23rd December 2019,True,Solo Leisure,Premium Economy,2019-12-01,5.0,3.0,3.0,3.0,1.0,4.0,5.0,yes
+15275,Norwegian,1,22nd December 2019,True,Couple Leisure,First Class,2019-11-01,5.0,5.0,4.0,5.0,4.0,4.0,5.0,yes
+15276,Norwegian,1,22nd December 2019,True,Couple Leisure,Economy Class,2019-12-01,2.0,1.0,,1.0,,,1.0,no
+15277,Norwegian,1,21st December 2019,True,Business,Economy Class,2019-12-01,3.0,1.0,2.0,1.0,3.0,3.0,1.0,no
+15278,Norwegian,1,20th December 2019,True,Solo Leisure,Economy Class,2019-12-01,1.0,1.0,,1.0,,,1.0,no
+15279,Norwegian,1,20th December 2019,True,Couple Leisure,Economy Class,2019-12-01,4.0,3.0,1.0,3.0,,,2.0,no
+15280,Norwegian,1,20th December 2019,True,Solo Leisure,Economy Class,2019-12-01,1.0,1.0,,1.0,,,1.0,no
+15281,Norwegian,1,19th December 2019,True,Couple Leisure,Economy Class,2019-10-01,,,,1.0,,,1.0,no
+15282,Norwegian,2,19th December 2019,True,Family Leisure,Economy Class,2019-11-01,1.0,4.0,1.0,1.0,,,1.0,no
+15283,Norwegian,1,13th December 2019,True,Solo Leisure,Economy Class,2019-12-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+15284,Norwegian,2,11th December 2019,True,Business,Economy Class,2019-12-01,3.0,4.0,,1.0,,,3.0,yes
+15285,Norwegian,1,4th December 2019,True,Family Leisure,Economy Class,2019-11-01,1.0,1.0,1.0,1.0,1.0,,1.0,no
+15286,Norwegian,1,3rd December 2019,True,Couple Leisure,Economy Class,2019-12-01,,,,1.0,,,1.0,no
+15287,Norwegian,1,29th November 2019,True,Solo Leisure,Economy Class,2019-10-01,3.0,4.0,2.0,1.0,3.0,3.0,2.0,no
+15288,Norwegian,1,29th November 2019,True,Solo Leisure,Economy Class,2019-11-01,4.0,5.0,4.0,5.0,4.0,,5.0,yes
+15289,Norwegian,1,27th November 2019,True,Solo Leisure,Economy Class,2019-11-01,5.0,5.0,5.0,5.0,,,5.0,yes
+15290,Norwegian,4,27th November 2019,True,Family Leisure,Economy Class,2019-09-01,5.0,1.0,1.0,5.0,5.0,5.0,5.0,yes
+15291,Norwegian,9,26th November 2019,True,Solo Leisure,Premium Economy,2019-10-01,4.0,4.0,4.0,4.0,,,4.0,yes
+15292,Norwegian,2,26th November 2019,True,Couple Leisure,Economy Class,2019-11-01,3.0,1.0,1.0,3.0,1.0,,3.0,no
+15293,Norwegian,3,24th November 2019,True,Couple Leisure,Economy Class,2019-10-01,3.0,3.0,,1.0,2.0,,3.0,no
+15294,Norwegian,3,23rd November 2019,True,Solo Leisure,Economy Class,2019-11-01,,,,,,5.0,3.0,no
+15295,Norwegian,8,18th November 2019,False,Solo Leisure,Economy Class,2019-08-01,4.0,5.0,,5.0,4.0,4.0,4.0,yes
+15296,Norwegian,3,18th November 2019,True,Solo Leisure,Economy Class,2019-11-01,3.0,5.0,1.0,1.0,4.0,,3.0,no
+15297,Norwegian,1,16th November 2019,False,Solo Leisure,Economy Class,2019-11-01,2.0,2.0,,1.0,,,1.0,no
+15298,Norwegian,1,16th November 2019,True,Solo Leisure,Economy Class,2019-11-01,1.0,1.0,1.0,1.0,1.0,1.0,2.0,no
+15299,Norwegian,7,10th November 2019,False,Solo Leisure,Economy Class,2019-11-01,2.0,4.0,,3.0,4.0,2.0,4.0,yes
+15300,Norwegian,1,8th November 2019,True,Business,Economy Class,2019-11-01,,,,1.0,,,1.0,no
+15301,Norwegian,1,3rd November 2019,True,Couple Leisure,Economy Class,2019-11-01,5.0,5.0,5.0,5.0,5.0,5.0,5.0,yes
+15302,Norwegian,1,31st October 2019,True,Solo Leisure,Economy Class,2019-09-01,3.0,2.0,1.0,1.0,3.0,,1.0,no
+15303,Norwegian,1,30th October 2019,True,Couple Leisure,Economy Class,2019-10-01,1.0,3.0,1.0,1.0,,4.0,2.0,no
+15304,Norwegian,5,26th October 2019,True,Solo Leisure,Economy Class,2019-09-01,1.0,1.0,1.0,2.0,2.0,4.0,3.0,no
+15305,Norwegian,1,25th October 2019,True,Family Leisure,Economy Class,2019-10-01,,,,,,,1.0,no
+15306,Norwegian,1,24th October 2019,True,Business,Economy Class,2019-09-01,2.0,1.0,,3.0,,,2.0,no
+15307,Norwegian,1,24th October 2019,True,Solo Leisure,Economy Class,2019-10-01,3.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+15308,Norwegian,2,21st October 2019,False,Business,Economy Class,2019-10-01,3.0,3.0,2.0,3.0,1.0,1.0,3.0,no
+15790,Pegasus Airlines,3,26th July 2023,True,Solo Leisure,Economy Class,2023-07-01,3.0,1.0,1.0,3.0,1.0,1.0,3.0,no
+15791,Pegasus Airlines,1,26th June 2023,False,Family Leisure,Economy Class,2023-06-01,1.0,1.0,,1.0,,,1.0,no
+15792,Pegasus Airlines,1,24th June 2023,False,Solo Leisure,Economy Class,2023-06-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+15793,Pegasus Airlines,2,23rd June 2023,False,Solo Leisure,Economy Class,2023-06-01,1.0,1.0,,1.0,,,1.0,no
+15794,Pegasus Airlines,1,27th May 2023,True,Business,Economy Class,2023-05-01,1.0,1.0,1.0,1.0,,,1.0,no
+15795,Pegasus Airlines,1,17th May 2023,True,Family Leisure,Economy Class,2023-05-01,1.0,1.0,,1.0,1.0,,1.0,no
+15796,Pegasus Airlines,1,1st May 2023,False,Solo Leisure,Economy Class,2023-05-01,3.0,3.0,,1.0,,,1.0,no
+15797,Pegasus Airlines,6,25th April 2023,True,Couple Leisure,Economy Class,2023-04-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+15798,Pegasus Airlines,1,13th April 2023,False,Couple Leisure,Economy Class,2023-03-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+15799,Pegasus Airlines,1,22nd March 2023,True,Solo Leisure,Economy Class,2023-03-01,1.0,1.0,1.0,1.0,1.0,1.0,2.0,no
+15800,Pegasus Airlines,1,24th February 2023,True,Solo Leisure,Economy Class,2022-10-01,1.0,1.0,,1.0,1.0,1.0,1.0,no
+15801,Pegasus Airlines,2,21st February 2023,True,Solo Leisure,Economy Class,2022-12-01,3.0,3.0,1.0,2.0,1.0,1.0,2.0,no
+15802,Pegasus Airlines,1,9th February 2023,True,Solo Leisure,Economy Class,2023-02-01,4.0,4.0,,5.0,,,5.0,yes
+15803,Pegasus Airlines,1,7th February 2023,False,Family Leisure,Economy Class,2023-02-01,1.0,1.0,,1.0,,,1.0,no
+15804,Pegasus Airlines,1,5th February 2023,True,Family Leisure,Economy Class,2023-02-01,2.0,2.0,,1.0,,,1.0,no
+15805,Pegasus Airlines,3,17th January 2023,True,Solo Leisure,Economy Class,2023-01-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+15806,Pegasus Airlines,1,12th January 2023,True,Solo Leisure,Economy Class,2022-11-01,2.0,4.0,,1.0,,,1.0,no
+15807,Pegasus Airlines,1,10th January 2023,True,Couple Leisure,Economy Class,2023-01-01,1.0,1.0,,3.0,1.0,1.0,1.0,no
+15808,Pegasus Airlines,1,5th January 2023,False,Couple Leisure,Economy Class,2023-01-01,1.0,1.0,,1.0,,,2.0,no
+15809,Pegasus Airlines,1,4th January 2023,True,Solo Leisure,Economy Class,2023-01-01,2.0,2.0,1.0,1.0,1.0,1.0,1.0,no
+15810,Pegasus Airlines,3,3rd January 2023,False,Business,Economy Class,2023-01-01,1.0,3.0,1.0,3.0,1.0,1.0,1.0,no
+15811,Pegasus Airlines,4,3rd January 2023,True,Solo Leisure,Economy Class,2022-12-01,3.0,3.0,3.0,3.0,,,4.0,yes
+15812,Pegasus Airlines,9,31st December 2022,True,Couple Leisure,Economy Class,2022-12-01,2.0,5.0,4.0,3.0,3.0,,5.0,yes
+15813,Pegasus Airlines,1,8th December 2022,True,Family Leisure,Economy Class,2022-12-01,,,,1.0,,,3.0,no
+15814,Pegasus Airlines,1,5th December 2022,True,Business,Economy Class,2022-09-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+15815,Pegasus Airlines,1,4th December 2022,False,Couple Leisure,Economy Class,2022-12-01,1.0,1.0,,2.0,,,1.0,no
+15816,Pegasus Airlines,4,22nd November 2022,False,Family Leisure,Economy Class,2022-10-01,1.0,5.0,2.0,3.0,,,5.0,no
+15817,Pegasus Airlines,1,15th November 2022,True,Solo Leisure,Economy Class,2022-11-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+15818,Pegasus Airlines,1,12th October 2022,False,Couple Leisure,Economy Class,2022-09-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+15819,Pegasus Airlines,1,7th October 2022,True,Couple Leisure,Economy Class,2022-10-01,5.0,5.0,3.0,5.0,,,5.0,yes
+15820,Pegasus Airlines,9,27th September 2022,True,Couple Leisure,Economy Class,2022-09-01,4.0,5.0,,5.0,,,5.0,yes
+15821,Pegasus Airlines,1,11th September 2022,True,Couple Leisure,Economy Class,2022-08-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+15822,Pegasus Airlines,1,1st July 2022,False,Family Leisure,Economy Class,2022-05-01,2.0,1.0,1.0,1.0,1.0,1.0,3.0,no
+15823,Pegasus Airlines,7,17th June 2022,True,Business,Economy Class,2022-06-01,3.0,4.0,3.0,4.0,,,3.0,yes
+15824,Pegasus Airlines,1,30th May 2022,False,Couple Leisure,Economy Class,2022-05-01,1.0,1.0,,1.0,,,1.0,no
+15825,Pegasus Airlines,1,16th May 2022,True,Couple Leisure,Economy Class,2022-05-01,3.0,5.0,4.0,1.0,,,1.0,no
+15826,Pegasus Airlines,1,12th May 2022,True,Family Leisure,Economy Class,2022-03-01,,,,,,,1.0,no
+15827,Pegasus Airlines,1,16th April 2022,True,Solo Leisure,Economy Class,2022-02-01,,,,,,,1.0,no
+15828,Pegasus Airlines,1,15th March 2022,True,Solo Leisure,Economy Class,2022-03-01,1.0,1.0,,1.0,,,1.0,no
+15829,Pegasus Airlines,1,6th March 2022,True,Business,Economy Class,2022-03-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+15830,Pegasus Airlines,2,5th March 2022,True,Business,Economy Class,2022-03-01,2.0,2.0,,1.0,,,3.0,no
+15831,Pegasus Airlines,2,22nd February 2022,True,Family Leisure,Economy Class,2022-02-01,2.0,2.0,2.0,1.0,1.0,1.0,2.0,no
+15832,Pegasus Airlines,5,5th February 2022,True,Solo Leisure,Economy Class,2022-02-01,3.0,3.0,,4.0,,,3.0,yes
+15833,Pegasus Airlines,1,15th January 2022,True,Solo Leisure,Economy Class,2022-01-01,5.0,5.0,5.0,5.0,5.0,,5.0,yes
+15834,Pegasus Airlines,1,9th January 2022,True,Family Leisure,Economy Class,2022-01-01,,,,1.0,,,1.0,no
+15835,Pegasus Airlines,1,6th January 2022,False,Family Leisure,Economy Class,2021-12-01,1.0,2.0,1.0,1.0,2.0,1.0,1.0,no
+15836,Pegasus Airlines,1,23rd December 2021,False,Solo Leisure,Economy Class,2021-12-01,2.0,1.0,,1.0,,,1.0,no
+15837,Pegasus Airlines,1,16th December 2021,True,Couple Leisure,Economy Class,2021-12-01,2.0,2.0,,1.0,,,1.0,no
+15838,Pegasus Airlines,1,23rd November 2021,False,Solo Leisure,Economy Class,2021-11-01,1.0,1.0,,1.0,,,1.0,no
+15839,Pegasus Airlines,1,9th November 2021,True,Solo Leisure,Economy Class,2021-11-01,5.0,4.0,2.0,2.0,1.0,2.0,1.0,no
+15840,Pegasus Airlines,1,8th November 2021,True,Solo Leisure,Economy Class,2021-11-01,1.0,1.0,,1.0,1.0,1.0,2.0,no
+15841,Pegasus Airlines,1,7th November 2021,True,Family Leisure,Economy Class,2021-11-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+15842,Pegasus Airlines,3,4th October 2021,True,Family Leisure,Economy Class,2021-10-01,2.0,3.0,3.0,1.0,,,2.0,no
+15843,Pegasus Airlines,8,29th September 2021,True,Couple Leisure,Economy Class,2021-09-01,3.0,4.0,4.0,5.0,,,5.0,yes
+15844,Pegasus Airlines,1,26th September 2021,False,Solo Leisure,Economy Class,2021-07-01,1.0,2.0,1.0,1.0,1.0,1.0,1.0,no
+15845,Pegasus Airlines,1,22nd September 2021,True,Couple Leisure,Economy Class,2021-09-01,4.0,5.0,4.0,5.0,,,5.0,yes
+15846,Pegasus Airlines,1,18th September 2021,True,Solo Leisure,Economy Class,2021-09-01,,,,1.0,,,2.0,no
+15847,Pegasus Airlines,1,7th September 2021,True,Couple Leisure,Economy Class,2021-08-01,2.0,1.0,1.0,1.0,,,1.0,no
+15848,Pegasus Airlines,1,13th August 2021,True,Solo Leisure,Economy Class,2021-08-01,2.0,1.0,,1.0,,,3.0,no
+15849,Pegasus Airlines,3,19th July 2021,True,Solo Leisure,Economy Class,2021-03-01,2.0,3.0,2.0,2.0,,,3.0,no
+15850,Pegasus Airlines,2,7th July 2021,True,Family Leisure,Economy Class,2021-07-01,1.0,1.0,,1.0,,,1.0,no
+15851,Pegasus Airlines,1,9th May 2021,True,Solo Leisure,Economy Class,2021-05-01,,,,1.0,,,3.0,no
+15852,Pegasus Airlines,1,16th April 2021,False,Solo Leisure,Economy Class,2021-04-01,1.0,2.0,,2.0,,,2.0,no
+15853,Pegasus Airlines,1,5th April 2021,True,Couple Leisure,Economy Class,2021-04-01,,,,1.0,,,1.0,no
+15854,Pegasus Airlines,1,27th March 2021,True,Family Leisure,Economy Class,2021-03-01,,,,1.0,,,1.0,no
+15855,Pegasus Airlines,1,25th March 2021,False,Solo Leisure,Economy Class,2020-10-01,2.0,2.0,,1.0,,,1.0,no
+15856,Pegasus Airlines,1,25th February 2021,True,Couple Leisure,Economy Class,2021-02-01,1.0,1.0,1.0,1.0,1.0,2.0,1.0,no
+15857,Pegasus Airlines,1,22nd February 2021,True,Solo Leisure,Economy Class,2021-02-01,1.0,1.0,1.0,1.0,1.0,,1.0,no
+15858,Pegasus Airlines,1,14th December 2020,True,Family Leisure,Economy Class,2020-11-01,,,,,,,3.0,no
+15859,Pegasus Airlines,1,11th September 2020,False,Family Leisure,Economy Class,2020-09-01,2.0,1.0,1.0,3.0,1.0,1.0,1.0,no
+15860,Pegasus Airlines,5,3rd September 2020,False,Family Leisure,Economy Class,2020-09-01,1.0,3.0,,3.0,,,3.0,no
+15861,Pegasus Airlines,4,1st August 2020,True,Business,Economy Class,2020-08-01,3.0,3.0,1.0,2.0,1.0,1.0,1.0,no
+15862,Pegasus Airlines,1,9th July 2020,False,Family Leisure,Economy Class,2019-08-01,,,,,,,1.0,no
+15863,Pegasus Airlines,1,26th May 2020,True,Business,Economy Class,2020-03-01,,,,1.0,,,1.0,no
+15864,Pegasus Airlines,1,6th May 2020,False,Family Leisure,Economy Class,2020-04-01,,,,,,,1.0,no
+15865,Pegasus Airlines,4,21st March 2020,True,Solo Leisure,Economy Class,2019-12-01,5.0,4.0,4.0,3.0,,,4.0,yes
+15866,Pegasus Airlines,1,11th March 2020,True,Family Leisure,Economy Class,2020-03-01,,,,,,,1.0,no
+15867,Pegasus Airlines,2,9th March 2020,False,Solo Leisure,Economy Class,2020-02-01,1.0,4.0,2.0,2.0,1.0,1.0,3.0,no
+15868,Pegasus Airlines,1,23rd January 2020,False,Solo Leisure,Premium Economy,2019-12-01,1.0,1.0,1.0,1.0,1.0,,1.0,no
+15869,Pegasus Airlines,2,13th January 2020,True,Family Leisure,Economy Class,2019-12-01,1.0,1.0,,1.0,,,1.0,no
+15870,Pegasus Airlines,1,10th January 2020,True,Couple Leisure,Economy Class,2020-01-01,,,,1.0,,,1.0,no
+15871,Pegasus Airlines,1,21st December 2019,True,Family Leisure,Economy Class,2019-12-01,1.0,1.0,1.0,1.0,,,1.0,no
+15872,Pegasus Airlines,1,16th December 2019,True,Family Leisure,Economy Class,2019-12-01,1.0,,,1.0,,,1.0,no
+15873,Pegasus Airlines,1,7th December 2019,True,Couple Leisure,Economy Class,2019-12-01,1.0,1.0,,1.0,,,1.0,no
+15874,Pegasus Airlines,1,21st November 2019,True,Solo Leisure,Economy Class,2019-11-01,1.0,1.0,,2.0,,,2.0,no
+15875,Pegasus Airlines,1,7th November 2019,False,Solo Leisure,Economy Class,2019-10-01,5.0,5.0,5.0,5.0,,,5.0,yes
+15876,Pegasus Airlines,1,5th November 2019,True,Business,Economy Class,2019-11-01,5.0,5.0,5.0,5.0,,,5.0,yes
+15877,Pegasus Airlines,2,20th October 2019,True,Solo Leisure,Economy Class,2019-10-01,1.0,3.0,,3.0,1.0,1.0,3.0,no
+15878,Pegasus Airlines,1,19th October 2019,True,Family Leisure,Economy Class,2019-08-01,2.0,5.0,4.0,1.0,1.0,1.0,1.0,no
+15879,Pegasus Airlines,1,15th October 2019,True,Family Leisure,Economy Class,2019-08-01,2.0,3.0,2.0,1.0,,,1.0,no
+15880,Pegasus Airlines,1,13th October 2019,True,Family Leisure,Economy Class,2019-10-01,1.0,3.0,3.0,1.0,1.0,3.0,1.0,no
+15881,Pegasus Airlines,9,30th September 2019,False,Couple Leisure,Economy Class,2019-09-01,4.0,5.0,5.0,5.0,,,5.0,yes
+15882,Pegasus Airlines,1,17th September 2019,True,Family Leisure,Economy Class,2019-09-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+15883,Pegasus Airlines,1,29th August 2019,True,Couple Leisure,Economy Class,2019-08-01,2.0,1.0,1.0,1.0,,,1.0,no
+15884,Pegasus Airlines,1,19th August 2019,False,Family Leisure,Economy Class,2019-08-01,2.0,3.0,3.0,1.0,1.0,2.0,2.0,no
+15885,Pegasus Airlines,1,2nd August 2019,True,Solo Leisure,Economy Class,2019-07-01,1.0,1.0,,1.0,,,1.0,no
+15886,Pegasus Airlines,1,1st July 2019,True,Family Leisure,Economy Class,2019-06-01,1.0,1.0,,1.0,,,1.0,no
+15887,Pegasus Airlines,1,24th June 2019,True,Couple Leisure,Economy Class,2019-06-01,,,,1.0,,,1.0,no
+15888,Pegasus Airlines,1,23rd June 2019,False,Family Leisure,Economy Class,2019-06-01,1.0,5.0,1.0,1.0,1.0,1.0,5.0,no
+15889,Pegasus Airlines,3,10th June 2019,False,Couple Leisure,Economy Class,2019-06-01,2.0,3.0,1.0,3.0,1.0,1.0,2.0,no
+17248,Ryanair,1,26th July 2023,True,Solo Leisure,Economy Class,2023-07-01,1.0,2.0,,1.0,,,2.0,no
+17249,Ryanair,3,23rd July 2023,True,Couple Leisure,Economy Class,2023-07-01,2.0,1.0,,2.0,,,3.0,no
+17250,Ryanair,1,22nd July 2023,True,Couple Leisure,Economy Class,2023-07-01,,,,1.0,,1.0,1.0,no
+17251,Ryanair,2,19th July 2023,True,Couple Leisure,Economy Class,2022-10-01,3.0,3.0,1.0,1.0,1.0,1.0,4.0,no
+17252,Ryanair,1,17th July 2023,False,Business,Economy Class,2023-07-01,1.0,1.0,,1.0,,,1.0,no
+17253,Ryanair,1,17th July 2023,True,Business,Economy Class,2023-07-01,1.0,1.0,,1.0,,,3.0,no
+17254,Ryanair,8,13th July 2023,False,Solo Leisure,Economy Class,2023-05-01,3.0,5.0,,4.0,,,5.0,yes
+17255,Ryanair,1,10th July 2023,False,Family Leisure,Economy Class,2023-07-01,,,,1.0,,,1.0,no
+17256,Ryanair,1,8th July 2023,False,Solo Leisure,Economy Class,2023-07-01,1.0,1.0,1.0,1.0,,,1.0,no
+17257,Ryanair,1,6th July 2023,True,Couple Leisure,Economy Class,2023-07-01,3.0,5.0,,3.0,,,4.0,yes
+17258,Ryanair,1,5th July 2023,True,Couple Leisure,Economy Class,2023-06-01,1.0,1.0,,1.0,1.0,1.0,1.0,no
+17259,Ryanair,1,4th July 2023,True,Couple Leisure,Economy Class,2023-06-01,1.0,1.0,,1.0,,,1.0,no
+17260,Ryanair,4,2nd July 2023,True,Couple Leisure,Economy Class,2023-07-01,3.0,3.0,,1.0,,,1.0,no
+17261,Ryanair,9,28th June 2023,True,Solo Leisure,Economy Class,2023-06-01,2.0,5.0,5.0,5.0,,,4.0,yes
+17262,Ryanair,9,26th June 2023,True,Solo Leisure,Economy Class,2023-06-01,3.0,5.0,5.0,5.0,,,5.0,yes
+17263,Ryanair,1,25th June 2023,True,Couple Leisure,Economy Class,2023-06-01,,,,,,,1.0,no
+17264,Ryanair,7,24th June 2023,True,Couple Leisure,Economy Class,2023-06-01,3.0,3.0,,2.0,,,4.0,yes
+17265,Ryanair,1,24th June 2023,True,Family Leisure,Economy Class,2023-05-01,1.0,1.0,,1.0,,,1.0,no
+17266,Ryanair,1,19th June 2023,False,Family Leisure,Economy Class,2023-05-01,1.0,1.0,,1.0,,,1.0,no
+17267,Ryanair,1,17th June 2023,True,Family Leisure,Premium Economy,2023-06-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+17268,Ryanair,1,14th June 2023,True,Business,Economy Class,2023-06-01,,,,1.0,,,1.0,no
+17269,Ryanair,1,13th June 2023,False,Couple Leisure,Economy Class,2023-02-01,2.0,2.0,1.0,2.0,3.0,1.0,1.0,no
+17270,Ryanair,1,3rd June 2023,True,Solo Leisure,Economy Class,2023-05-01,1.0,3.0,,1.0,,,1.0,no
+17271,Ryanair,7,2nd June 2023,True,Solo Leisure,Economy Class,2023-05-01,3.0,4.0,,2.0,,,3.0,yes
+17272,Ryanair,1,1st June 2023,True,Family Leisure,Economy Class,2023-05-01,1.0,1.0,,1.0,,,1.0,no
+17273,Ryanair,1,28th May 2023,True,Family Leisure,Economy Class,2023-05-01,3.0,5.0,3.0,1.0,,,1.0,no
+17274,Ryanair,5,27th May 2023,True,Couple Leisure,Economy Class,2023-05-01,3.0,3.0,2.0,2.0,,,5.0,yes
+17275,Ryanair,8,26th May 2023,True,Solo Leisure,Economy Class,2023-03-01,3.0,4.0,3.0,4.0,,,5.0,yes
+17276,Ryanair,1,24th May 2023,True,Solo Leisure,Economy Class,2023-05-01,1.0,1.0,,1.0,,,1.0,no
+17277,Ryanair,1,21st May 2023,False,Couple Leisure,Economy Class,2023-05-01,1.0,1.0,,1.0,,,1.0,no
+17278,Ryanair,1,19th May 2023,False,Solo Leisure,Economy Class,2023-05-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+17279,Ryanair,1,15th May 2023,False,Couple Leisure,Economy Class,2023-05-01,1.0,4.0,,1.0,,,1.0,no
+17280,Ryanair,4,15th May 2023,True,Solo Leisure,Economy Class,2023-05-01,1.0,2.0,2.0,2.0,,,3.0,no
+17281,Ryanair,6,15th May 2023,True,Solo Leisure,Economy Class,2023-05-01,2.0,3.0,,3.0,,,5.0,yes
+17282,Ryanair,1,14th May 2023,True,Couple Leisure,Premium Economy,2023-05-01,1.0,1.0,,1.0,,,1.0,no
+17283,Ryanair,8,14th May 2023,True,Couple Leisure,Economy Class,2023-05-01,2.0,5.0,2.0,5.0,,,5.0,yes
+17284,Ryanair,1,13th May 2023,True,Couple Leisure,Economy Class,2023-05-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+17285,Ryanair,1,11th May 2023,True,Couple Leisure,Economy Class,2023-05-01,1.0,1.0,1.0,1.0,,,2.0,no
+17286,Ryanair,1,11th May 2023,False,Couple Leisure,Economy Class,2023-05-01,1.0,1.0,,1.0,,,1.0,no
+17287,Ryanair,2,11th May 2023,True,Couple Leisure,Economy Class,2023-05-01,1.0,1.0,2.0,1.0,,,1.0,no
+17288,Ryanair,1,9th May 2023,True,Family Leisure,Economy Class,2023-05-01,1.0,1.0,,1.0,,,1.0,no
+17289,Ryanair,1,8th May 2023,True,Couple Leisure,Economy Class,2023-05-01,,,,1.0,,,1.0,no
+17290,Ryanair,7,3rd May 2023,True,Couple Leisure,Economy Class,2023-05-01,2.0,5.0,3.0,3.0,,,5.0,yes
+17291,Ryanair,5,3rd May 2023,True,Couple Leisure,Economy Class,2023-05-01,2.0,2.0,,1.0,,,5.0,no
+17292,Ryanair,1,2nd May 2023,True,Solo Leisure,Economy Class,2023-05-01,5.0,5.0,,5.0,,,5.0,yes
+17293,Ryanair,1,2nd May 2023,True,Solo Leisure,Economy Class,2023-04-01,5.0,5.0,,5.0,,,5.0,yes
+17294,Ryanair,9,1st May 2023,True,Solo Leisure,Economy Class,2023-04-01,2.0,3.0,1.0,4.0,,,3.0,yes
+17295,Ryanair,1,29th April 2023,True,Business,Economy Class,2023-04-01,1.0,2.0,,1.0,1.0,1.0,1.0,no
+17296,Ryanair,8,28th April 2023,True,Solo Leisure,Economy Class,2023-04-01,2.0,5.0,5.0,5.0,,,5.0,yes
+17297,Ryanair,9,24th April 2023,True,Solo Leisure,Economy Class,2023-04-01,4.0,5.0,,5.0,,,5.0,yes
+17298,Ryanair,1,22nd April 2023,True,Solo Leisure,Economy Class,2023-04-01,2.0,2.0,1.0,1.0,1.0,1.0,1.0,no
+17299,Ryanair,1,22nd April 2023,True,Solo Leisure,Economy Class,2023-04-01,5.0,5.0,5.0,5.0,,,5.0,yes
+17300,Ryanair,1,21st April 2023,True,Couple Leisure,Economy Class,2023-03-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+17301,Ryanair,2,19th April 2023,True,Couple Leisure,Economy Class,2023-04-01,3.0,2.0,,1.0,,,1.0,no
+17302,Ryanair,1,13th April 2023,True,Couple Leisure,Economy Class,2023-04-01,2.0,2.0,,1.0,,,1.0,no
+17303,Ryanair,6,12th April 2023,True,Family Leisure,Economy Class,2023-04-01,3.0,4.0,,5.0,,,3.0,yes
+17304,Ryanair,6,11th April 2023,True,Family Leisure,Economy Class,2023-04-01,1.0,4.0,2.0,3.0,,,4.0,yes
+17305,Ryanair,1,10th April 2023,True,Couple Leisure,Economy Class,2023-04-01,2.0,2.0,2.0,1.0,1.0,1.0,1.0,no
+17306,Ryanair,1,8th April 2023,True,Couple Leisure,Economy Class,2023-04-01,1.0,2.0,2.0,1.0,,,1.0,no
+17307,Ryanair,1,5th April 2023,False,Family Leisure,Economy Class,2023-04-01,1.0,1.0,,1.0,,,1.0,no
+17308,Ryanair,1,31st March 2023,False,Family Leisure,Economy Class,2023-03-01,1.0,1.0,,1.0,,,1.0,no
+17309,Ryanair,1,28th March 2023,False,Couple Leisure,Economy Class,2023-03-01,2.0,3.0,,1.0,,,1.0,no
+17310,Ryanair,7,25th March 2023,True,Solo Leisure,Economy Class,2023-03-01,3.0,5.0,3.0,4.0,,,5.0,yes
+17311,Ryanair,1,23rd March 2023,True,Solo Leisure,Premium Economy,2023-03-01,3.0,2.0,,1.0,,,1.0,no
+17312,Ryanair,1,18th March 2023,True,Solo Leisure,Economy Class,2023-03-01,1.0,1.0,,1.0,,,1.0,no
+17313,Ryanair,1,15th March 2023,False,Couple Leisure,Economy Class,2023-03-01,1.0,1.0,1.0,1.0,,,1.0,no
+17314,Ryanair,1,12th March 2023,False,Couple Leisure,Economy Class,2023-03-01,,,,,,,1.0,no
+17315,Ryanair,8,7th March 2023,True,Couple Leisure,Economy Class,2023-03-01,4.0,5.0,5.0,5.0,1.0,1.0,5.0,yes
+17316,Ryanair,1,4th March 2023,True,Solo Leisure,Economy Class,2023-03-01,4.0,4.0,,1.0,,,5.0,yes
+17317,Ryanair,2,16th February 2023,False,Couple Leisure,Economy Class,2023-02-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+17318,Ryanair,2,14th February 2023,True,Couple Leisure,Economy Class,2023-02-01,2.0,2.0,,2.0,,,2.0,no
+17319,Ryanair,1,8th February 2023,True,Couple Leisure,Economy Class,2023-02-01,1.0,5.0,5.0,5.0,,,5.0,yes
+17320,Ryanair,9,8th February 2023,True,Couple Leisure,Economy Class,2023-02-01,4.0,5.0,,5.0,,,5.0,yes
+17321,Ryanair,1,8th February 2023,True,Solo Leisure,Economy Class,2023-02-01,1.0,1.0,,2.0,,,2.0,no
+17322,Ryanair,8,7th February 2023,False,Solo Leisure,Economy Class,2023-01-01,3.0,4.0,,5.0,,,5.0,yes
+17323,Ryanair,1,30th January 2023,True,Family Leisure,Economy Class,2023-01-01,3.0,2.0,,1.0,,,1.0,no
+17324,Ryanair,8,30th January 2023,False,Solo Leisure,Economy Class,2022-08-01,3.0,3.0,2.0,4.0,2.0,,5.0,yes
+17325,Ryanair,1,29th January 2023,False,Solo Leisure,Economy Class,2023-01-01,4.0,5.0,,4.0,,,5.0,yes
+17326,Ryanair,1,19th January 2023,True,Solo Leisure,Economy Class,2022-09-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+17327,Ryanair,1,17th January 2023,True,Couple Leisure,Economy Class,2023-01-01,3.0,5.0,5.0,5.0,,,5.0,yes
+17328,Ryanair,1,10th January 2023,True,Couple Leisure,Economy Class,2022-05-01,2.0,2.0,,2.0,,,1.0,no
+17329,Ryanair,9,8th January 2023,True,Family Leisure,Economy Class,2023-01-01,3.0,5.0,,3.0,,,5.0,yes
+17330,Ryanair,1,5th January 2023,True,Business,Economy Class,2022-11-01,1.0,1.0,1.0,1.0,,,1.0,no
+17331,Ryanair,1,4th January 2023,False,Solo Leisure,Economy Class,2022-12-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+17332,Ryanair,1,3rd January 2023,True,Couple Leisure,Economy Class,2023-01-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+17333,Ryanair,1,3rd January 2023,False,Couple Leisure,Economy Class,2022-08-01,1.0,1.0,,1.0,,,1.0,no
+17334,Ryanair,1,23rd December 2022,True,Solo Leisure,Economy Class,2022-12-01,1.0,1.0,,1.0,,,1.0,no
+17335,Ryanair,3,19th December 2022,True,Solo Leisure,Economy Class,2022-12-01,4.0,2.0,,2.0,,,3.0,yes
+17336,Ryanair,1,18th December 2022,True,Solo Leisure,Economy Class,2022-12-01,1.0,1.0,1.0,1.0,,,1.0,no
+17337,Ryanair,8,13th December 2022,True,Solo Leisure,Economy Class,2022-12-01,5.0,5.0,5.0,3.0,,,5.0,yes
+17338,Ryanair,3,10th December 2022,False,Family Leisure,Economy Class,2022-12-01,5.0,5.0,,1.0,,,1.0,no
+17339,Ryanair,1,7th December 2022,True,Family Leisure,Economy Class,2022-09-01,1.0,2.0,1.0,1.0,,,1.0,no
+17340,Ryanair,2,6th December 2022,False,Solo Leisure,Economy Class,2022-12-01,,,,1.0,,,1.0,no
+17341,Ryanair,1,4th December 2022,True,Couple Leisure,Economy Class,2022-08-01,3.0,5.0,4.0,5.0,,,5.0,yes
+17342,Ryanair,8,19th November 2022,True,Solo Leisure,Economy Class,2022-08-01,3.0,3.0,,4.0,,,5.0,yes
+17343,Ryanair,1,17th November 2022,True,Family Leisure,Economy Class,2022-07-01,1.0,1.0,1.0,1.0,1.0,1.0,2.0,no
+17344,Ryanair,4,16th November 2022,True,Business,Economy Class,2022-11-01,2.0,1.0,,1.0,,,2.0,no
+17345,Ryanair,1,10th November 2022,True,Solo Leisure,Economy Class,2022-11-01,1.0,2.0,,1.0,1.0,,2.0,no
+17346,Ryanair,1,8th November 2022,True,Couple Leisure,Economy Class,2022-11-01,1.0,1.0,,1.0,,,1.0,no
+17347,Ryanair,1,7th November 2022,True,Solo Leisure,Economy Class,2022-10-01,1.0,1.0,,1.0,,,4.0,no
+20938,TUI Airways,5,16th July 2023,False,Solo Leisure,Economy Class,2023-06-01,4.0,5.0,3.0,3.0,,,2.0,no
+20939,TUI Airways,1,5th July 2023,True,Solo Leisure,Economy Class,2023-06-01,1.0,1.0,,1.0,,,3.0,no
+20940,TUI Airways,2,1st July 2023,True,Family Leisure,Economy Class,2023-06-01,2.0,1.0,1.0,1.0,,,1.0,no
+20941,TUI Airways,2,14th June 2023,False,Solo Leisure,Economy Class,2023-06-01,2.0,2.0,,1.0,,,3.0,no
+20942,TUI Airways,3,12th June 2023,False,Couple Leisure,Economy Class,2023-05-01,1.0,2.0,1.0,1.0,,,3.0,no
+20943,TUI Airways,6,21st April 2023,False,Family Leisure,Economy Class,2022-08-01,3.0,3.0,4.0,2.0,3.0,,4.0,yes
+20944,TUI Airways,4,2nd April 2023,True,Family Leisure,Economy Class,2023-04-01,3.0,5.0,2.0,1.0,,,4.0,no
+20945,TUI Airways,1,14th March 2023,True,Family Leisure,Economy Class,2023-03-01,5.0,5.0,5.0,5.0,3.0,,5.0,yes
+20946,TUI Airways,9,12th March 2023,True,Couple Leisure,Economy Class,2023-03-01,4.0,4.0,3.0,4.0,,,4.0,yes
+20947,TUI Airways,4,23rd February 2023,False,Couple Leisure,Economy Class,2023-02-01,4.0,3.0,2.0,2.0,,,3.0,no
+20948,TUI Airways,4,7th November 2022,True,Solo Leisure,Premium Economy,2022-11-01,1.0,3.0,3.0,4.0,3.0,,3.0,no
+20949,TUI Airways,1,6th November 2022,False,Family Leisure,Economy Class,2022-08-01,1.0,1.0,,1.0,,,1.0,no
+20950,TUI Airways,1,1st November 2022,True,Solo Leisure,Economy Class,2022-10-01,2.0,2.0,1.0,1.0,1.0,1.0,1.0,no
+20951,TUI Airways,1,15th October 2022,True,Family Leisure,Economy Class,2022-07-01,5.0,5.0,,4.0,,,5.0,yes
+20952,TUI Airways,1,26th September 2022,True,Couple Leisure,Economy Class,2022-09-01,1.0,4.0,3.0,1.0,,1.0,1.0,no
+20953,TUI Airways,9,19th September 2022,True,Family Leisure,Economy Class,2022-09-01,5.0,5.0,4.0,5.0,,,5.0,yes
+20954,TUI Airways,7,8th September 2022,False,Family Leisure,Economy Class,2022-09-01,2.0,5.0,4.0,4.0,,,3.0,yes
+20955,TUI Airways,9,11th July 2022,False,Solo Leisure,Economy Class,2022-07-01,5.0,5.0,5.0,5.0,,,5.0,yes
+20956,TUI Airways,1,6th June 2022,True,Family Leisure,Premium Economy,2022-06-01,5.0,5.0,5.0,3.0,3.0,,5.0,yes
+20957,TUI Airways,7,13th April 2022,True,Family Leisure,Economy Class,2022-04-01,4.0,5.0,4.0,3.0,4.0,,4.0,yes
+20958,TUI Airways,6,5th March 2022,False,Couple Leisure,Economy Class,2022-02-01,3.0,3.0,3.0,3.0,3.0,2.0,3.0,yes
+20959,TUI Airways,4,7th January 2022,True,Family Leisure,Economy Class,2022-01-01,2.0,2.0,2.0,1.0,,,3.0,no
+20960,TUI Airways,9,7th November 2021,True,Family Leisure,Economy Class,2021-10-01,4.0,5.0,4.0,1.0,4.0,,5.0,yes
+20961,TUI Airways,9,7th November 2021,False,Family Leisure,Economy Class,2021-10-01,4.0,5.0,,2.0,4.0,,4.0,yes
+20962,TUI Airways,4,29th August 2021,True,Family Leisure,Economy Class,2021-08-01,1.0,4.0,2.0,2.0,1.0,,3.0,no
+20963,TUI Airways,1,16th August 2021,True,Solo Leisure,Premium Economy,2021-08-01,4.0,1.0,3.0,3.0,,,1.0,no
+20964,TUI Airways,1,1st December 2020,False,Couple Leisure,Economy Class,2020-04-01,1.0,1.0,,1.0,,,1.0,no
+20965,TUI Airways,1,24th October 2020,True,Couple Leisure,Economy Class,2020-10-01,5.0,5.0,5.0,5.0,,,5.0,yes
+20966,TUI Airways,1,9th August 2020,True,Couple Leisure,Economy Class,2020-08-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+20967,TUI Airways,1,24th February 2020,True,Family Leisure,Economy Class,2020-02-01,,,,1.0,,,1.0,no
+20968,TUI Airways,1,13th February 2020,False,Couple Leisure,Economy Class,2020-02-01,3.0,5.0,4.0,5.0,,,5.0,yes
+20969,TUI Airways,7,28th November 2019,False,Family Leisure,Economy Class,2019-11-01,3.0,4.0,3.0,4.0,3.0,,4.0,yes
+20970,TUI Airways,8,11th October 2019,False,Couple Leisure,Economy Class,2019-10-01,2.0,4.0,,1.0,,2.0,5.0,yes
+20971,TUI Airways,8,4th October 2019,False,Couple Leisure,Economy Class,2019-10-01,4.0,5.0,4.0,4.0,4.0,3.0,4.0,yes
+20972,TUI Airways,1,30th September 2019,False,Family Leisure,Economy Class,2019-09-01,1.0,3.0,,1.0,,,1.0,no
+20973,TUI Airways,1,23rd September 2019,True,Family Leisure,Economy Class,2019-07-01,1.0,1.0,,1.0,,,1.0,no
+20974,TUI Airways,1,16th September 2019,True,Couple Leisure,Economy Class,2019-09-01,1.0,1.0,1.0,1.0,,,1.0,no
+20975,TUI Airways,1,15th September 2019,True,Couple Leisure,Economy Class,2019-09-01,1.0,1.0,1.0,1.0,1.0,,1.0,no
+20976,TUI Airways,1,13th September 2019,False,Couple Leisure,Economy Class,2019-09-01,1.0,2.0,1.0,1.0,1.0,1.0,1.0,no
+20977,TUI Airways,5,4th September 2019,False,Family Leisure,Economy Class,2019-08-01,2.0,3.0,2.0,3.0,,,4.0,yes
+20978,TUI Airways,3,1st September 2019,True,Solo Leisure,Economy Class,2019-08-01,1.0,3.0,,3.0,,,2.0,no
+20979,TUI Airways,1,27th August 2019,True,Solo Leisure,Economy Class,2019-08-01,2.0,2.0,,1.0,,,1.0,no
+20980,TUI Airways,1,3rd August 2019,True,Couple Leisure,Economy Class,2019-07-01,1.0,2.0,1.0,3.0,1.0,1.0,1.0,no
+20981,TUI Airways,9,17th June 2019,False,Couple Leisure,Economy Class,2019-06-01,4.0,4.0,3.0,4.0,1.0,,4.0,yes
+20982,TUI Airways,1,30th May 2019,True,Solo Leisure,Economy Class,2019-05-01,3.0,4.0,4.0,1.0,1.0,1.0,1.0,no
+20983,TUI Airways,8,22nd May 2019,True,Business,Economy Class,2019-05-01,3.0,4.0,,5.0,,,5.0,yes
+20984,TUI Airways,8,19th May 2019,True,Solo Leisure,Economy Class,2019-05-01,4.0,5.0,4.0,3.0,,,5.0,yes
+20985,TUI Airways,1,31st March 2019,True,Solo Leisure,Economy Class,2019-03-01,3.0,1.0,1.0,1.0,1.0,,1.0,no
+20986,TUI Airways,1,16th March 2019,True,Couple Leisure,Premium Economy,2019-03-01,3.0,5.0,4.0,4.0,3.0,,4.0,yes
+20987,TUI Airways,4,3rd March 2019,False,Family Leisure,Economy Class,2019-02-01,3.0,3.0,1.0,2.0,,,3.0,no
+20988,TUI Airways,1,4th February 2019,False,Family Leisure,Economy Class,2019-01-01,4.0,5.0,4.0,3.0,,,5.0,yes
+20989,TUI Airways,1,8th January 2019,False,Family Leisure,Economy Class,2019-01-01,4.0,5.0,4.0,5.0,,,5.0,yes
+20990,TUI Airways,4,3rd December 2018,True,Couple Leisure,Economy Class,2018-07-01,2.0,2.0,1.0,3.0,,,3.0,no
+20991,TUI Airways,1,9th October 2018,False,Family Leisure,Economy Class,2018-09-01,5.0,5.0,4.0,5.0,4.0,,5.0,yes
+20992,TUI Airways,1,9th October 2018,True,Family Leisure,Economy Class,2018-03-01,5.0,5.0,5.0,5.0,5.0,1.0,4.0,yes
+20993,TUI Airways,1,8th October 2018,True,Couple Leisure,Economy Class,2018-09-01,5.0,5.0,5.0,5.0,5.0,,5.0,yes
+20994,TUI Airways,1,17th September 2018,True,Couple Leisure,Economy Class,2018-09-01,2.0,3.0,,1.0,,,2.0,no
+20995,TUI Airways,1,2nd September 2018,False,Couple Leisure,Economy Class,2018-08-01,5.0,5.0,3.0,5.0,,,5.0,yes
+20996,TUI Airways,8,22nd August 2018,True,Family Leisure,Economy Class,2018-08-01,3.0,5.0,,3.0,,,4.0,yes
+20997,TUI Airways,1,22nd August 2018,True,Couple Leisure,Economy Class,2018-06-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+20998,TUI Airways,2,11th August 2018,True,Family Leisure,Economy Class,2018-06-01,3.0,2.0,3.0,1.0,1.0,,1.0,no
+20999,TUI Airways,8,8th August 2018,True,Solo Leisure,Economy Class,2018-07-01,4.0,5.0,,3.0,,,3.0,yes
+21000,TUI Airways,9,18th July 2018,True,Family Leisure,Premium Economy,2018-07-01,5.0,5.0,4.0,3.0,5.0,,5.0,yes
+21001,TUI Airways,3,30th June 2018,False,Family Leisure,Economy Class,2018-06-01,3.0,4.0,3.0,3.0,,,2.0,no
+21002,TUI Airways,8,30th May 2018,True,Family Leisure,Economy Class,2018-05-01,4.0,5.0,4.0,4.0,5.0,,5.0,yes
+21003,TUI Airways,1,20th May 2018,True,Family Leisure,Economy Class,2018-05-01,1.0,1.0,1.0,1.0,,,1.0,no
+21004,TUI Airways,6,18th May 2018,True,Couple Leisure,Economy Class,2018-05-01,4.0,4.0,2.0,2.0,,,4.0,yes
+21005,TUI Airways,1,27th April 2018,True,Couple Leisure,Economy Class,2018-04-01,2.0,3.0,1.0,1.0,1.0,1.0,1.0,no
+21006,TUI Airways,1,14th March 2018,True,Couple Leisure,Economy Class,2018-03-01,1.0,2.0,1.0,3.0,1.0,,1.0,no
+21007,TUI Airways,8,16th February 2018,True,Couple Leisure,Economy Class,2018-02-01,4.0,5.0,4.0,5.0,4.0,,5.0,yes
+21008,TUI Airways,1,31st January 2018,True,Couple Leisure,Economy Class,2018-01-01,4.0,5.0,,4.0,,,4.0,yes
+21009,TUI Airways,9,29th January 2018,True,Family Leisure,Economy Class,2018-01-01,4.0,5.0,3.0,5.0,,,4.0,yes
+21010,TUI Airways,3,18th December 2017,True,Solo Leisure,Premium Economy,2017-12-01,3.0,2.0,4.0,1.0,1.0,,2.0,no
+21011,TUIfly,8,3rd July 2023,True,Family Leisure,Economy Class,2023-06-01,4.0,4.0,4.0,3.0,,,5.0,yes
+21012,TUIfly,1,30th September 2022,True,Family Leisure,Economy Class,2022-09-01,2.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+21013,TUIfly,1,26th July 2022,True,Business,Premium Economy,2022-07-01,1.0,1.0,,1.0,,,1.0,no
+21014,TUIfly,1,2nd June 2022,True,Solo Leisure,Economy Class,2022-05-01,5.0,2.0,2.0,1.0,1.0,1.0,2.0,no
+21015,TUIfly,8,24th August 2021,True,Family Leisure,Economy Class,2021-08-01,4.0,5.0,4.0,4.0,,,5.0,yes
+21016,TUIfly,7,21st March 2021,True,Couple Leisure,Premium Economy,2021-03-01,3.0,5.0,4.0,5.0,4.0,,5.0,yes
+21017,TUIfly,1,22nd July 2020,True,Couple Leisure,Economy Class,2020-07-01,,,,,,,1.0,no
+21018,TUIfly,1,3rd April 2020,True,Solo Leisure,Economy Class,2020-02-01,,,,,,,1.0,no
+21019,TUIfly,7,8th March 2020,True,Family Leisure,Economy Class,2020-03-01,3.0,4.0,4.0,3.0,,,4.0,yes
+21020,TUIfly,5,18th December 2019,True,Couple Leisure,Economy Class,2019-12-01,1.0,4.0,2.0,3.0,3.0,,2.0,no
+21021,TUIfly,7,9th December 2019,True,Couple Leisure,Economy Class,2019-12-01,3.0,4.0,3.0,2.0,3.0,,3.0,yes
+21022,TUIfly,3,1st September 2019,True,Solo Leisure,Economy Class,2018-10-01,3.0,3.0,,3.0,,,2.0,no
+21023,TUIfly,9,8th June 2019,True,Family Leisure,Economy Class,2019-06-01,4.0,4.0,4.0,4.0,,,5.0,yes
+21024,TUIfly,1,1st June 2019,True,Solo Leisure,Economy Class,2019-05-01,1.0,2.0,2.0,1.0,3.0,,1.0,no
+21025,TUIfly,1,31st January 2019,False,Solo Leisure,Economy Class,2019-01-01,1.0,1.0,,1.0,,,1.0,no
+21026,TUIfly,2,18th December 2018,True,Couple Leisure,Economy Class,2018-12-01,1.0,2.0,1.0,1.0,1.0,1.0,2.0,no
+21027,TUIfly,1,5th September 2018,True,Couple Leisure,Economy Class,2018-06-01,5.0,5.0,5.0,5.0,4.0,,5.0,yes
+21028,TUIfly,1,17th July 2018,True,Family Leisure,Economy Class,2018-07-01,4.0,3.0,1.0,4.0,4.0,5.0,3.0,no
+21029,TUIfly,1,1st January 2018,True,Solo Leisure,Economy Class,2017-12-01,1.0,1.0,1.0,1.0,2.0,1.0,1.0,no
+21030,TUIfly,8,25th September 2017,False,Family Leisure,Economy Class,2017-09-01,2.0,5.0,,4.0,,,5.0,yes
+21031,TUIfly,8,23rd September 2017,False,Family Leisure,Economy Class,2017-09-01,2.0,5.0,3.0,4.0,,,4.0,yes
+21032,TUIfly,8,15th August 2017,False,Couple Leisure,Economy Class,2017-08-01,5.0,3.0,,5.0,,,5.0,yes
+21033,TUIfly,2,1st July 2017,False,Family Leisure,Economy Class,2017-06-01,2.0,2.0,1.0,2.0,1.0,,2.0,no
+21034,TUIfly,1,15th June 2017,False,Solo Leisure,Economy Class,2017-01-01,1.0,1.0,1.0,1.0,,,1.0,no
+21035,TUIfly,2,15th May 2017,False,Couple Leisure,Economy Class,2017-05-01,1.0,2.0,1.0,2.0,1.0,,3.0,no
+21036,TUIfly,1,7th April 2017,False,Couple Leisure,Premium Economy,2017-04-01,1.0,2.0,1.0,2.0,1.0,1.0,1.0,no
+21037,TUIfly,3,19th January 2017,False,Couple Leisure,Economy Class,2017-01-01,1.0,2.0,1.0,4.0,1.0,1.0,2.0,no
+21038,TUIfly,2,30th December 2016,False,Family Leisure,Economy Class,2016-12-01,1.0,2.0,2.0,2.0,,,1.0,no
+21039,TUIfly,7,22nd November 2016,False,Solo Leisure,Economy Class,2016-04-01,4.0,4.0,,4.0,,,5.0,yes
+21040,TUIfly,1,18th May 2016,False,Family Leisure,Economy Class,2016-05-01,3.0,2.0,1.0,3.0,1.0,,1.0,no
+21041,TUIfly,2,27th February 2016,False,Family Leisure,Economy Class,2016-01-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+21042,TUIfly,4,27th December 2015,False,Couple Leisure,Premium Economy,2015-12-01,2.0,5.0,2.0,5.0,3.0,,4.0,no
+21043,TUIfly,8,9th November 2015,False,Couple Leisure,Economy Class,2015-10-01,4.0,5.0,4.0,5.0,,,4.0,yes
+21044,TUIfly,5,16th October 2015,False,Couple Leisure,Economy Class,2015-10-01,3.0,5.0,2.0,4.0,1.0,4.0,3.0,no
+21045,TUIfly,7,27th September 2015,False,Couple Leisure,Economy Class,2015-09-01,5.0,1.0,4.0,2.0,4.0,,5.0,yes
+21046,TUIfly,5,26th September 2015,False,Couple Leisure,Economy Class,2015-09-01,2.0,3.0,4.0,3.0,1.0,,4.0,yes
+21076,TUIfly Nordic,5,5th January 2016,False,Couple Leisure,Economy Class,2016-01-01,1.0,4.0,4.0,2.0,2.0,,1.0,no
+21157,Turkish Airlines,1,27th July 2023,False,Solo Leisure,Economy Class,2023-06-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+21158,Turkish Airlines,1,26th July 2023,True,Family Leisure,Economy Class,2023-07-01,3.0,1.0,1.0,3.0,2.0,1.0,1.0,no
+21159,Turkish Airlines,1,26th July 2023,True,Business,Economy Class,2023-07-01,1.0,,,2.0,,,2.0,no
+21160,Turkish Airlines,1,26th July 2023,False,Solo Leisure,Business Class,2023-03-01,2.0,1.0,2.0,3.0,3.0,3.0,1.0,no
+21161,Turkish Airlines,3,24th July 2023,True,Couple Leisure,Economy Class,2023-07-01,1.0,2.0,3.0,3.0,2.0,,3.0,no
+21162,Turkish Airlines,1,22nd July 2023,True,Solo Leisure,Business Class,2023-07-01,1.0,1.0,1.0,1.0,,4.0,1.0,no
+21163,Turkish Airlines,1,21st July 2023,True,Business,Economy Class,2023-07-01,1.0,1.0,,1.0,,,1.0,no
+21164,Turkish Airlines,1,19th July 2023,False,Couple Leisure,Economy Class,2023-07-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+21165,Turkish Airlines,1,18th July 2023,False,Business,Economy Class,2023-07-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+21166,Turkish Airlines,6,18th July 2023,True,Family Leisure,Economy Class,2023-07-01,3.0,2.0,3.0,3.0,5.0,2.0,4.0,yes
+21167,Turkish Airlines,2,18th July 2023,False,Solo Leisure,Business Class,2023-07-01,4.0,3.0,3.0,1.0,,,2.0,no
+21168,Turkish Airlines,1,16th July 2023,True,Family Leisure,Business Class,2023-03-01,3.0,2.0,1.0,1.0,3.0,3.0,1.0,no
+21169,Turkish Airlines,1,12th July 2023,False,Couple Leisure,Economy Class,2023-07-01,1.0,2.0,1.0,3.0,,,2.0,no
+21170,Turkish Airlines,2,11th July 2023,True,Solo Leisure,Economy Class,2023-07-01,1.0,1.0,2.0,1.0,2.0,,1.0,no
+21171,Turkish Airlines,1,8th July 2023,True,Business,Economy Class,2023-07-01,1.0,1.0,,1.0,,,1.0,no
+21172,Turkish Airlines,1,5th July 2023,False,Family Leisure,Economy Class,2023-07-01,1.0,1.0,2.0,1.0,2.0,1.0,1.0,no
+21173,Turkish Airlines,1,3rd July 2023,True,Couple Leisure,Business Class,2023-07-01,4.0,4.0,2.0,1.0,3.0,,1.0,no
+21174,Turkish Airlines,2,28th June 2023,True,Solo Leisure,Economy Class,2023-06-01,1.0,1.0,2.0,1.0,,,2.0,no
+21175,Turkish Airlines,1,26th June 2023,True,Couple Leisure,Economy Class,2023-06-01,2.0,2.0,2.0,1.0,2.0,2.0,1.0,no
+21176,Turkish Airlines,1,25th June 2023,True,Family Leisure,Economy Class,2023-06-01,1.0,1.0,3.0,1.0,2.0,1.0,1.0,no
+21177,Turkish Airlines,2,25th June 2023,True,Couple Leisure,Economy Class,2023-06-01,3.0,1.0,2.0,1.0,3.0,,3.0,no
+21178,Turkish Airlines,1,25th June 2023,True,Family Leisure,Business Class,2023-06-01,3.0,3.0,4.0,1.0,2.0,1.0,1.0,no
+21179,Turkish Airlines,1,25th June 2023,False,Business,Economy Class,2023-06-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+21180,Turkish Airlines,1,24th June 2023,True,Couple Leisure,Business Class,2023-06-01,5.0,5.0,5.0,5.0,5.0,5.0,5.0,yes
+21181,Turkish Airlines,2,23rd June 2023,True,Business,Business Class,2023-06-01,2.0,4.0,4.0,2.0,4.0,1.0,2.0,no
+21182,Turkish Airlines,1,18th June 2023,True,Solo Leisure,Economy Class,2023-06-01,3.0,3.0,,1.0,,,3.0,no
+21183,Turkish Airlines,1,14th June 2023,True,Solo Leisure,Premium Economy,2023-06-01,1.0,1.0,3.0,1.0,1.0,1.0,2.0,no
+21184,Turkish Airlines,1,6th June 2023,True,Solo Leisure,Economy Class,2023-06-01,2.0,1.0,1.0,1.0,2.0,,1.0,no
+21185,Turkish Airlines,9,3rd June 2023,True,Family Leisure,Business Class,2023-06-01,5.0,5.0,5.0,5.0,5.0,5.0,5.0,yes
+21186,Turkish Airlines,5,3rd June 2023,True,Couple Leisure,Business Class,2023-06-01,3.0,3.0,5.0,1.0,3.0,4.0,3.0,yes
+21187,Turkish Airlines,1,2nd June 2023,True,Family Leisure,Economy Class,2023-06-01,,,,1.0,,,1.0,no
+21188,Turkish Airlines,1,30th May 2023,False,Solo Leisure,Economy Class,2023-05-01,5.0,5.0,5.0,5.0,5.0,5.0,5.0,yes
+21189,Turkish Airlines,1,29th May 2023,True,Couple Leisure,Economy Class,2023-05-01,4.0,4.0,4.0,1.0,,,3.0,no
+21190,Turkish Airlines,6,27th May 2023,True,Family Leisure,Business Class,2023-05-01,5.0,4.0,4.0,1.0,5.0,5.0,3.0,yes
+21191,Turkish Airlines,1,26th May 2023,True,Couple Leisure,Economy Class,2023-03-01,,,,,,,1.0,no
+21192,Turkish Airlines,1,22nd May 2023,True,Solo Leisure,Business Class,2023-04-01,3.0,3.0,3.0,1.0,3.0,4.0,1.0,no
+21193,Turkish Airlines,2,21st May 2023,True,Business,Economy Class,2023-05-01,4.0,3.0,5.0,1.0,,5.0,1.0,no
+21194,Turkish Airlines,1,17th May 2023,True,Family Leisure,Economy Class,2023-04-01,2.0,1.0,1.0,1.0,,,1.0,no
+21195,Turkish Airlines,1,14th May 2023,True,Business,Business Class,2023-04-01,5.0,4.0,5.0,5.0,5.0,3.0,5.0,yes
+21196,Turkish Airlines,1,12th May 2023,True,Solo Leisure,Economy Class,2023-05-01,2.0,2.0,2.0,1.0,2.0,2.0,1.0,no
+21197,Turkish Airlines,7,10th May 2023,False,Solo Leisure,Business Class,2023-04-01,4.0,2.0,4.0,4.0,4.0,4.0,4.0,yes
+21198,Turkish Airlines,7,10th May 2023,True,Couple Leisure,Economy Class,2023-05-01,4.0,4.0,4.0,1.0,5.0,,4.0,yes
+21199,Turkish Airlines,1,9th May 2023,False,Couple Leisure,Economy Class,2023-05-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+21200,Turkish Airlines,1,5th May 2023,False,Couple Leisure,Business Class,2023-05-01,3.0,3.0,,1.0,,,1.0,no
+21201,Turkish Airlines,3,5th May 2023,False,Couple Leisure,Economy Class,2023-05-01,1.0,1.0,1.0,1.0,1.0,1.0,5.0,no
+21202,Turkish Airlines,1,4th May 2023,False,Family Leisure,Economy Class,2023-04-01,3.0,2.0,1.0,2.0,1.0,,2.0,no
+21203,Turkish Airlines,1,4th May 2023,False,Business,Business Class,2023-05-01,1.0,2.0,,1.0,,,1.0,no
+21204,Turkish Airlines,4,2nd May 2023,True,Business,Economy Class,2023-04-01,1.0,4.0,4.0,3.0,4.0,1.0,1.0,no
+21205,Turkish Airlines,5,2nd May 2023,True,Couple Leisure,Economy Class,2023-04-01,2.0,4.0,2.0,1.0,3.0,1.0,3.0,no
+21206,Turkish Airlines,1,1st May 2023,False,Family Leisure,Economy Class,2023-05-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+21207,Turkish Airlines,5,30th April 2023,True,Couple Leisure,Economy Class,2023-04-01,1.0,4.0,3.0,1.0,5.0,,3.0,no
+21208,Turkish Airlines,4,29th April 2023,True,Family Leisure,Business Class,2023-04-01,3.0,2.0,2.0,2.0,1.0,1.0,2.0,no
+21209,Turkish Airlines,2,28th April 2023,True,Family Leisure,Economy Class,2023-04-01,2.0,1.0,1.0,2.0,1.0,,1.0,no
+21210,Turkish Airlines,1,24th April 2023,True,Solo Leisure,Economy Class,2023-04-01,1.0,1.0,,1.0,,,1.0,no
+21211,Turkish Airlines,5,20th April 2023,True,Business,Economy Class,2023-04-01,2.0,4.0,2.0,3.0,,1.0,2.0,no
+21212,Turkish Airlines,1,14th April 2023,True,Family Leisure,Economy Class,2023-04-01,1.0,5.0,3.0,1.0,3.0,1.0,1.0,no
+21213,Turkish Airlines,1,10th April 2023,True,Couple Leisure,Economy Class,2023-04-01,1.0,3.0,2.0,1.0,,,1.0,no
+21214,Turkish Airlines,1,9th April 2023,True,Solo Leisure,Economy Class,2023-02-01,1.0,1.0,1.0,2.0,,,1.0,no
+21215,Turkish Airlines,1,8th April 2023,True,Solo Leisure,Economy Class,2023-03-01,1.0,1.0,,1.0,,,1.0,no
+21216,Turkish Airlines,3,8th April 2023,True,Couple Leisure,Economy Class,2023-04-01,4.0,4.0,2.0,2.0,5.0,,3.0,yes
+21217,Turkish Airlines,1,5th April 2023,False,Family Leisure,Economy Class,2022-07-01,5.0,5.0,5.0,4.0,3.0,5.0,4.0,yes
+21218,Turkish Airlines,1,4th April 2023,True,Solo Leisure,Economy Class,2023-03-01,4.0,5.0,4.0,1.0,,,3.0,no
+21219,Turkish Airlines,1,4th April 2023,True,Couple Leisure,Economy Class,2023-04-01,3.0,3.0,3.0,1.0,3.0,,3.0,no
+21220,Turkish Airlines,5,3rd April 2023,False,Couple Leisure,Business Class,2023-03-01,1.0,3.0,5.0,2.0,3.0,2.0,2.0,no
+21221,Turkish Airlines,3,31st March 2023,True,Business,Economy Class,2023-03-01,3.0,3.0,3.0,1.0,,,3.0,no
+21222,Turkish Airlines,1,30th March 2023,True,Couple Leisure,Business Class,2023-03-01,2.0,2.0,2.0,1.0,2.0,2.0,1.0,no
+21223,Turkish Airlines,1,29th March 2023,True,Solo Leisure,Economy Class,2023-03-01,2.0,1.0,2.0,1.0,2.0,2.0,2.0,no
+21224,Turkish Airlines,1,23rd March 2023,False,Family Leisure,Economy Class,2023-03-01,5.0,4.0,2.0,5.0,5.0,2.0,4.0,yes
+21225,Turkish Airlines,1,12th March 2023,False,Business,Economy Class,2023-03-01,2.0,1.0,,1.0,,,1.0,no
+21226,Turkish Airlines,5,7th March 2023,True,Business,Business Class,2023-02-01,3.0,3.0,2.0,2.0,,,3.0,no
+21227,Turkish Airlines,1,6th March 2023,True,Solo Leisure,Economy Class,2023-02-01,3.0,1.0,3.0,1.0,3.0,,1.0,no
+21228,Turkish Airlines,5,28th February 2023,True,Business,Business Class,2023-02-01,2.0,3.0,2.0,2.0,,,3.0,no
+21229,Turkish Airlines,6,26th February 2023,True,Solo Leisure,Economy Class,2023-02-01,5.0,5.0,4.0,5.0,2.0,5.0,5.0,yes
+21230,Turkish Airlines,2,23rd February 2023,True,Solo Leisure,Economy Class,2023-01-01,3.0,3.0,2.0,1.0,3.0,,1.0,no
+21231,Turkish Airlines,5,19th February 2023,True,Solo Leisure,Business Class,2023-02-01,2.0,5.0,5.0,4.0,3.0,5.0,2.0,no
+21232,Turkish Airlines,9,19th February 2023,True,Solo Leisure,Economy Class,2023-02-01,4.0,5.0,5.0,5.0,5.0,,5.0,yes
+21233,Turkish Airlines,3,10th February 2023,True,Family Leisure,Economy Class,2023-02-01,2.0,3.0,2.0,1.0,,,1.0,no
+21234,Turkish Airlines,1,7th February 2023,True,Solo Leisure,Economy Class,2023-02-01,2.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+21235,Turkish Airlines,1,6th February 2023,False,Family Leisure,Economy Class,2023-02-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+21236,Turkish Airlines,1,3rd February 2023,True,Family Leisure,Economy Class,2023-02-01,4.0,1.0,2.0,1.0,3.0,,2.0,no
+21237,Turkish Airlines,2,1st February 2023,True,Solo Leisure,Economy Class,2023-01-01,3.0,3.0,2.0,1.0,2.0,,2.0,no
+21238,Turkish Airlines,2,31st January 2023,True,Solo Leisure,Economy Class,2023-01-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+21239,Turkish Airlines,1,27th January 2023,True,Solo Leisure,Economy Class,2022-12-01,,,,1.0,,,1.0,no
+21240,Turkish Airlines,1,23rd January 2023,True,Solo Leisure,Economy Class,2023-01-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+21241,Turkish Airlines,1,14th January 2023,True,Solo Leisure,Economy Class,2023-01-01,3.0,2.0,1.0,1.0,,,1.0,no
+21242,Turkish Airlines,1,9th January 2023,True,Solo Leisure,Economy Class,2022-12-01,3.0,3.0,3.0,1.0,3.0,1.0,2.0,no
+21243,Turkish Airlines,1,7th January 2023,False,Family Leisure,Economy Class,2023-01-01,2.0,3.0,3.0,2.0,2.0,1.0,3.0,no
+21244,Turkish Airlines,1,6th January 2023,True,Business,Economy Class,2022-03-01,5.0,5.0,5.0,5.0,5.0,5.0,5.0,yes
+21245,Turkish Airlines,1,1st January 2023,False,Couple Leisure,Economy Class,2023-01-01,1.0,5.0,3.0,1.0,2.0,2.0,2.0,no
+21246,Turkish Airlines,1,1st January 2023,True,Family Leisure,Economy Class,2022-12-01,1.0,1.0,1.0,1.0,,,1.0,no
+21247,Turkish Airlines,1,31st December 2022,True,Solo Leisure,Economy Class,2022-12-01,1.0,1.0,3.0,1.0,3.0,,1.0,no
+21248,Turkish Airlines,1,27th December 2022,True,Solo Leisure,Economy Class,2022-02-01,1.0,1.0,,1.0,,,1.0,no
+21249,Turkish Airlines,3,24th December 2022,True,Couple Leisure,Business Class,2022-12-01,4.0,4.0,4.0,2.0,4.0,4.0,2.0,no
+21250,Turkish Airlines,2,3rd December 2022,True,Solo Leisure,Economy Class,2022-11-01,2.0,2.0,1.0,1.0,2.0,,2.0,no
+21251,Turkish Airlines,1,30th November 2022,True,Solo Leisure,Economy Class,2022-11-01,1.0,1.0,2.0,2.0,4.0,1.0,2.0,no
+21252,Turkish Airlines,1,30th November 2022,True,Couple Leisure,Economy Class,2022-09-01,1.0,1.0,3.0,1.0,2.0,1.0,1.0,no
+21253,Turkish Airlines,1,29th November 2022,False,Couple Leisure,Economy Class,2022-11-01,5.0,5.0,5.0,5.0,5.0,5.0,5.0,yes
+21254,Turkish Airlines,1,29th November 2022,True,Family Leisure,Economy Class,2022-11-01,3.0,2.0,2.0,1.0,2.0,1.0,2.0,no
+21255,Turkish Airlines,1,25th November 2022,True,Business,Economy Class,2022-11-01,5.0,5.0,5.0,5.0,5.0,5.0,5.0,yes
+21256,Turkish Airlines,8,23rd November 2022,True,Solo Leisure,Business Class,2022-11-01,4.0,4.0,5.0,5.0,5.0,5.0,4.0,yes
+22702,Wizz Air,1,26th July 2023,False,Solo Leisure,Economy Class,2023-07-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+22703,Wizz Air,1,26th July 2023,True,Solo Leisure,Economy Class,2023-07-01,2.0,1.0,,1.0,1.0,1.0,1.0,no
+22704,Wizz Air,1,26th July 2023,False,Solo Leisure,Economy Class,2023-07-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+22705,Wizz Air,1,25th July 2023,False,Family Leisure,Economy Class,2023-07-01,1.0,1.0,1.0,1.0,,,1.0,no
+22706,Wizz Air,2,25th July 2023,False,Family Leisure,Economy Class,2023-07-01,1.0,1.0,,1.0,,,1.0,no
+22707,Wizz Air,1,24th July 2023,True,Business,Economy Class,2023-07-01,1.0,1.0,,1.0,,,1.0,no
+22708,Wizz Air,1,23rd July 2023,True,Solo Leisure,Economy Class,2023-06-01,1.0,,,1.0,,,1.0,no
+22709,Wizz Air,1,23rd July 2023,False,Couple Leisure,Economy Class,2023-07-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+22710,Wizz Air,1,21st July 2023,True,Family Leisure,Economy Class,2023-07-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+22711,Wizz Air,1,21st July 2023,False,Solo Leisure,Economy Class,2023-07-01,1.0,2.0,2.0,1.0,1.0,2.0,1.0,no
+22712,Wizz Air,1,20th July 2023,True,Solo Leisure,Economy Class,2023-07-01,1.0,1.0,1.0,1.0,1.0,1.0,2.0,no
+22713,Wizz Air,1,19th July 2023,True,Solo Leisure,Economy Class,2023-07-01,1.0,1.0,1.0,1.0,1.0,1.0,2.0,no
+22714,Wizz Air,1,17th July 2023,True,Couple Leisure,Economy Class,2023-07-01,,,,1.0,,,1.0,no
+22715,Wizz Air,1,16th July 2023,True,Family Leisure,Economy Class,2023-06-01,1.0,1.0,,1.0,,,1.0,no
+22716,Wizz Air,2,16th July 2023,True,Family Leisure,Economy Class,2023-07-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+22717,Wizz Air,2,15th July 2023,True,Family Leisure,Economy Class,2023-07-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+22718,Wizz Air,1,13th July 2023,True,Family Leisure,Economy Class,2022-08-01,1.0,1.0,,1.0,,,1.0,no
+22719,Wizz Air,1,12th July 2023,False,Business,Economy Class,2023-07-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+22720,Wizz Air,1,10th July 2023,True,Family Leisure,Economy Class,2023-07-01,1.0,2.0,1.0,2.0,1.0,1.0,1.0,no
+22721,Wizz Air,1,9th July 2023,True,Solo Leisure,Economy Class,2023-07-01,,,,1.0,,,1.0,yes
+22722,Wizz Air,1,6th July 2023,True,Family Leisure,Economy Class,2023-01-01,,,,,,,1.0,no
+22723,Wizz Air,1,5th July 2023,True,Family Leisure,Economy Class,2023-07-01,1.0,2.0,1.0,1.0,1.0,1.0,2.0,no
+22724,Wizz Air,1,5th July 2023,True,Solo Leisure,Economy Class,2023-07-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+22725,Wizz Air,1,4th July 2023,True,Family Leisure,Economy Class,2023-07-01,1.0,1.0,,1.0,,,1.0,no
+22726,Wizz Air,1,3rd July 2023,True,Solo Leisure,Economy Class,2023-07-01,1.0,1.0,,1.0,,,1.0,no
+22727,Wizz Air,9,3rd July 2023,True,Couple Leisure,Economy Class,2023-07-01,5.0,5.0,3.0,4.0,,,5.0,yes
+22728,Wizz Air,1,1st July 2023,True,Family Leisure,Economy Class,2023-06-01,1.0,2.0,2.0,2.0,1.0,1.0,2.0,no
+22729,Wizz Air,1,1st July 2023,True,Couple Leisure,Economy Class,2023-07-01,5.0,5.0,,4.0,,,5.0,yes
+22730,Wizz Air,1,28th June 2023,True,Solo Leisure,Economy Class,2023-06-01,,,,,,,1.0,no
+22731,Wizz Air,1,28th June 2023,True,Family Leisure,Premium Economy,2023-06-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+22732,Wizz Air,1,25th June 2023,True,Couple Leisure,Economy Class,2023-06-01,1.0,1.0,,1.0,,,1.0,no
+22733,Wizz Air,1,25th June 2023,True,Couple Leisure,Economy Class,2023-06-01,1.0,1.0,,1.0,,,1.0,no
+22734,Wizz Air,1,25th June 2023,True,Solo Leisure,Economy Class,2023-06-01,,,,1.0,,,1.0,no
+22735,Wizz Air,1,24th June 2023,False,Family Leisure,Economy Class,2023-06-01,,,,,,,1.0,no
+22736,Wizz Air,1,19th June 2023,True,Couple Leisure,Economy Class,2022-09-01,1.0,1.0,,1.0,,,1.0,no
+22737,Wizz Air,1,19th June 2023,True,Solo Leisure,Economy Class,2023-06-01,2.0,,,1.0,,,1.0,no
+22738,Wizz Air,1,18th June 2023,True,Solo Leisure,Economy Class,2023-02-01,1.0,1.0,,1.0,,,1.0,no
+22739,Wizz Air,3,17th June 2023,True,Family Leisure,Economy Class,2023-06-01,2.0,4.0,,2.0,,,2.0,no
+22740,Wizz Air,8,17th June 2023,True,Couple Leisure,Economy Class,2023-06-01,4.0,3.0,,5.0,,,5.0,yes
+22741,Wizz Air,9,15th June 2023,True,Couple Leisure,Economy Class,2023-06-01,5.0,3.0,,4.0,,,4.0,yes
+22742,Wizz Air,3,13th June 2023,True,Couple Leisure,Economy Class,2023-06-01,2.0,3.0,,3.0,,,2.0,no
+22743,Wizz Air,1,11th June 2023,True,Couple Leisure,Economy Class,2023-06-01,4.0,4.0,,4.0,,,5.0,yes
+22744,Wizz Air,1,11th June 2023,True,Couple Leisure,Economy Class,2023-06-01,5.0,4.0,,5.0,,,5.0,yes
+22745,Wizz Air,1,9th June 2023,True,Solo Leisure,Economy Class,2023-05-01,1.0,1.0,,1.0,,,1.0,no
+22746,Wizz Air,2,7th June 2023,False,Family Leisure,Economy Class,2023-06-01,1.0,1.0,,3.0,,,1.0,no
+22747,Wizz Air,1,6th June 2023,True,Family Leisure,Economy Class,2022-12-01,1.0,1.0,,1.0,,,1.0,no
+22748,Wizz Air,1,3rd June 2023,False,Solo Leisure,Economy Class,2023-06-01,1.0,1.0,,1.0,,,1.0,no
+22749,Wizz Air,1,3rd June 2023,True,Solo Leisure,Economy Class,2023-05-01,1.0,3.0,,1.0,,,1.0,no
+22750,Wizz Air,1,2nd June 2023,True,Couple Leisure,Economy Class,2023-06-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+22751,Wizz Air,1,31st May 2023,False,Couple Leisure,Economy Class,2023-05-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+22752,Wizz Air,1,28th May 2023,False,Couple Leisure,Economy Class,2023-03-01,1.0,3.0,1.0,1.0,,,3.0,no
+22753,Wizz Air,1,22nd May 2023,True,Solo Leisure,Economy Class,2023-05-01,1.0,2.0,1.0,1.0,1.0,1.0,1.0,no
+22754,Wizz Air,1,21st May 2023,True,Solo Leisure,Economy Class,2023-05-01,4.0,5.0,,5.0,,,5.0,yes
+22755,Wizz Air,1,19th May 2023,True,Solo Leisure,Economy Class,2023-05-01,1.0,3.0,1.0,1.0,1.0,1.0,1.0,no
+22756,Wizz Air,1,13th May 2023,False,Solo Leisure,Economy Class,2023-05-01,1.0,1.0,,1.0,1.0,,1.0,no
+22757,Wizz Air,9,12th May 2023,True,Solo Leisure,Economy Class,2023-05-01,5.0,4.0,,4.0,,,5.0,yes
+22758,Wizz Air,1,12th May 2023,False,Solo Leisure,Economy Class,2023-03-01,1.0,1.0,,1.0,,,1.0,no
+22759,Wizz Air,2,10th May 2023,False,Couple Leisure,Economy Class,2023-05-01,3.0,3.0,,1.0,,,1.0,no
+22760,Wizz Air,1,9th May 2023,True,Couple Leisure,Economy Class,2023-05-01,2.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+22761,Wizz Air,1,9th May 2023,True,Couple Leisure,Economy Class,2023-04-01,1.0,1.0,,1.0,,,2.0,no
+22762,Wizz Air,1,8th May 2023,True,Solo Leisure,Economy Class,2023-05-01,1.0,1.0,,2.0,,,2.0,no
+22763,Wizz Air,1,8th May 2023,True,Solo Leisure,Economy Class,2023-05-01,5.0,5.0,4.0,5.0,,,5.0,yes
+22764,Wizz Air,1,1st May 2023,False,Family Leisure,Economy Class,2023-04-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+22765,Wizz Air,1,1st May 2023,True,Solo Leisure,Economy Class,2023-04-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+22766,Wizz Air,5,30th April 2023,True,Couple Leisure,Economy Class,2023-04-01,3.0,4.0,1.0,4.0,,,5.0,yes
+22767,Wizz Air,1,29th April 2023,True,Solo Leisure,Economy Class,2023-04-01,1.0,1.0,,1.0,,,1.0,no
+22768,Wizz Air,1,28th April 2023,True,Solo Leisure,Economy Class,2023-04-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+22769,Wizz Air,2,27th April 2023,True,Family Leisure,Economy Class,2023-02-01,4.0,4.0,4.0,4.0,4.0,4.0,2.0,no
+22770,Wizz Air,1,24th April 2023,True,Couple Leisure,Economy Class,2023-04-01,1.0,1.0,,1.0,,,1.0,no
+22771,Wizz Air,1,20th April 2023,False,Couple Leisure,Economy Class,2022-09-01,2.0,2.0,1.0,1.0,1.0,1.0,1.0,no
+22772,Wizz Air,1,18th April 2023,True,Couple Leisure,Economy Class,2023-04-01,1.0,2.0,,1.0,,,1.0,no
+22773,Wizz Air,1,16th April 2023,True,Couple Leisure,Economy Class,2023-04-01,1.0,1.0,,1.0,,,1.0,no
+22774,Wizz Air,8,15th April 2023,True,Solo Leisure,Economy Class,2023-04-01,4.0,5.0,,5.0,,,4.0,yes
+22775,Wizz Air,1,13th April 2023,True,Solo Leisure,Economy Class,2023-04-01,4.0,5.0,2.0,5.0,,,5.0,yes
+22776,Wizz Air,1,9th April 2023,True,Couple Leisure,Economy Class,2023-04-01,3.0,5.0,,3.0,,,1.0,no
+22777,Wizz Air,8,8th April 2023,True,Solo Leisure,Economy Class,2023-04-01,5.0,4.0,3.0,5.0,,,5.0,yes
+22778,Wizz Air,2,4th April 2023,True,Solo Leisure,Economy Class,2023-04-01,2.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+22779,Wizz Air,6,4th April 2023,True,Solo Leisure,Economy Class,2023-04-01,2.0,4.0,,2.0,,,4.0,no
+22780,Wizz Air,1,4th April 2023,True,Couple Leisure,Economy Class,2023-03-01,,,,,,,1.0,no
+22781,Wizz Air,1,3rd April 2023,True,Solo Leisure,Economy Class,2023-04-01,1.0,,,1.0,,,1.0,no
+22782,Wizz Air,1,3rd April 2023,True,Solo Leisure,Economy Class,2023-04-01,1.0,1.0,,1.0,,,1.0,no
+22783,Wizz Air,5,1st April 2023,True,Family Leisure,Economy Class,2023-03-01,4.0,5.0,,4.0,,,3.0,no
+22784,Wizz Air,1,28th March 2023,False,Couple Leisure,Economy Class,2023-02-01,2.0,4.0,2.0,3.0,1.0,1.0,2.0,no
+22785,Wizz Air,8,27th March 2023,True,Solo Leisure,Economy Class,2023-03-01,5.0,4.0,3.0,5.0,,,5.0,yes
+22786,Wizz Air,1,22nd March 2023,True,Solo Leisure,Economy Class,2023-03-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+22787,Wizz Air,1,21st March 2023,False,Solo Leisure,Economy Class,2023-03-01,1.0,1.0,,1.0,1.0,1.0,1.0,no
+22788,Wizz Air,1,21st March 2023,True,Solo Leisure,Economy Class,2023-03-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+22789,Wizz Air,1,2nd March 2023,True,Solo Leisure,Economy Class,2023-02-01,1.0,1.0,,1.0,,,1.0,no
+22790,Wizz Air,1,2nd March 2023,True,Couple Leisure,Economy Class,2023-02-01,2.0,3.0,,1.0,,,1.0,no
+22791,Wizz Air,1,28th February 2023,True,Couple Leisure,Economy Class,2023-02-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+22792,Wizz Air,1,28th February 2023,False,Couple Leisure,Economy Class,2022-09-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+22793,Wizz Air,1,26th February 2023,True,Solo Leisure,Economy Class,2023-02-01,1.0,2.0,,1.0,,,1.0,no
+22794,Wizz Air,1,23rd February 2023,False,Couple Leisure,Economy Class,2023-02-01,,,,2.0,,,1.0,no
+22795,Wizz Air,1,19th February 2023,True,Family Leisure,Economy Class,2023-02-01,2.0,1.0,,1.0,,,1.0,no
+22796,Wizz Air,1,18th February 2023,False,Solo Leisure,Economy Class,2023-02-01,1.0,1.0,,2.0,,,1.0,no
+22797,Wizz Air,8,11th February 2023,True,Family Leisure,Economy Class,2023-02-01,3.0,5.0,2.0,4.0,,,4.0,yes
+22798,Wizz Air,2,10th February 2023,True,Couple Leisure,Economy Class,2023-02-01,2.0,2.0,,1.0,,,2.0,no
+22799,Wizz Air,1,9th February 2023,True,Couple Leisure,Economy Class,2023-02-01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+22800,Wizz Air,3,8th February 2023,True,Business,Economy Class,2023-02-01,2.0,4.0,,1.0,,,3.0,no
+22801,Wizz Air,1,8th February 2023,True,Solo Leisure,Economy Class,2022-07-01,,,,,,,1.0,no

@@ -1,0 +1,21 @@
+#barchart {
+  
+    .bar {
+      fill: #3a7ca5;
+      // stroke: #7ca4fc;
+    }
+  
+    .bar.hover {
+      fill-opacity: 0.5;
+    }
+  
+    .bar-text {
+      opacity: 0;
+    }
+  
+    .bar-text.hover {
+      opacity: 1;
+    }
+  }
+  
+  
