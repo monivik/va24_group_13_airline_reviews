@@ -1,6 +1,3 @@
-# webapp
- Web App Template Repository based on Webpack v5.
-
  ## Installation
  Execute the command `npm install` the first time, to install all the required packages.
 
